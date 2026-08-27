@@ -1,0 +1,163 @@
+[
+  {
+    "slug": "minneapolis-mn",
+    "name": "Minneapolis",
+    "state": "Minnesota",
+    "url": "https://findsaunaplunge.com/mn/minneapolis-mn/",
+    "venues": 36
+  },
+  {
+    "slug": "new-york-ny",
+    "name": "New York",
+    "state": "New York",
+    "url": "https://findsaunaplunge.com/ny/new-york-ny/",
+    "venues": 34
+  },
+  {
+    "slug": "denver-co",
+    "name": "Denver",
+    "state": "Colorado",
+    "url": "https://findsaunaplunge.com/co/denver-co/",
+    "venues": 30
+  },
+  {
+    "slug": "atlanta-ga",
+    "name": "Atlanta",
+    "state": "Georgia",
+    "url": "https://findsaunaplunge.com/ga/atlanta-ga/",
+    "venues": 29
+  },
+  {
+    "slug": "chicago-il",
+    "name": "Chicago",
+    "state": "Illinois",
+    "url": "https://findsaunaplunge.com/il/chicago-il/",
+    "venues": 29
+  },
+  {
+    "slug": "phoenix-az",
+    "name": "Phoenix",
+    "state": "Arizona",
+    "url": "https://findsaunaplunge.com/az/phoenix-az/",
+    "venues": 29
+  },
+  {
+    "slug": "houston-tx",
+    "name": "Houston",
+    "state": "Texas",
+    "url": "https://findsaunaplunge.com/tx/houston-tx/",
+    "venues": 28
+  },
+  {
+    "slug": "los-angeles-ca",
+    "name": "Los Angeles",
+    "state": "California",
+    "url": "https://findsaunaplunge.com/ca/los-angeles-ca/",
+    "venues": 28
+  },
+  {
+    "slug": "tampa-fl",
+    "name": "Tampa",
+    "state": "Florida",
+    "url": "https://findsaunaplunge.com/fl/tampa-fl/",
+    "venues": 27
+  },
+  {
+    "slug": "miami-fl",
+    "name": "Miami",
+    "state": "Florida",
+    "url": "https://findsaunaplunge.com/fl/miami-fl/",
+    "venues": 26
+  },
+  {
+    "slug": "austin-tx",
+    "name": "Austin",
+    "state": "Texas",
+    "url": "https://findsaunaplunge.com/tx/austin-tx/",
+    "venues": 25
+  },
+  {
+    "slug": "philadelphia-pa",
+    "name": "Philadelphia",
+    "state": "Pennsylvania",
+    "url": "https://findsaunaplunge.com/pa/philadelphia-pa/",
+    "venues": 23
+  },
+  {
+    "slug": "san-francisco-ca",
+    "name": "San Francisco",
+    "state": "California",
+    "url": "https://findsaunaplunge.com/ca/san-francisco-ca/",
+    "venues": 23
+  },
+  {
+    "slug": "seattle-wa",
+    "name": "Seattle",
+    "state": "Washington",
+    "url": "https://findsaunaplunge.com/wa/seattle-wa/",
+    "venues": 23
+  },
+  {
+    "slug": "nashville-tn",
+    "name": "Nashville",
+    "state": "Tennessee",
+    "url": "https://findsaunaplunge.com/tn/nashville-tn/",
+    "venues": 20
+  },
+  {
+    "slug": "san-antonio-tx",
+    "name": "San Antonio",
+    "state": "Texas",
+    "url": "https://findsaunaplunge.com/tx/san-antonio-tx/",
+    "venues": 19
+  },
+  {
+    "slug": "san-diego-ca",
+    "name": "San Diego",
+    "state": "California",
+    "url": "https://findsaunaplunge.com/ca/san-diego-ca/",
+    "venues": 19
+  },
+  {
+    "slug": "boston-ma",
+    "name": "Boston",
+    "state": "Massachusetts",
+    "url": "https://findsaunaplunge.com/ma/boston-ma/",
+    "venues": 18
+  },
+  {
+    "slug": "dallas-tx",
+    "name": "Dallas",
+    "state": "Texas",
+    "url": "https://findsaunaplunge.com/tx/dallas-tx/",
+    "venues": 18
+  },
+  {
+    "slug": "washington-dc",
+    "name": "Washington",
+    "state": "District of Columbia",
+    "url": "https://findsaunaplunge.com/dc/washington-dc/",
+    "venues": 18
+  },
+  {
+    "slug": "las-vegas-nv",
+    "name": "Las Vegas",
+    "state": "Nevada",
+    "url": "https://findsaunaplunge.com/nv/las-vegas-nv/",
+    "venues": 17
+  },
+  {
+    "slug": "fort-worth-tx",
+    "name": "Fort Worth",
+    "state": "Texas",
+    "url": "https://findsaunaplunge.com/tx/fort-worth-tx/",
+    "venues": 16
+  },
+  {
+    "slug": "portland-or",
+    "name": "Portland",
+    "state": "Oregon",
+    "url": "https://findsaunaplunge.com/or/portland-or/",
+    "venues": 13
+  }
+]

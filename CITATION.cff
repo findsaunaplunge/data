@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "US Sauna & Cold Plunge Venue Data"
+message: "If you use this dataset, please cite it and link to findsaunaplunge.com."
+type: dataset
+authors:
+  - name: "FindSaunaPlunge"
+    website: "https://findsaunaplunge.com"
+license: CC-BY-4.0
+url: "https://findsaunaplunge.com/data/us-sauna-cold-plunge/"
+repository-code: "https://github.com/findsaunaplunge/data"
+abstract: >-
+  Cold plunge, sauna and contrast-therapy venues across US metros, each record
+  carrying the date its details were last checked. Published temperatures and
+  prices are read from each venue's own pages; absent fields mean the venue does
+  not publish the detail, never zero. Monthly snapshots of the live feed at
+  https://findsaunaplunge.com/api/v1/venues.json.

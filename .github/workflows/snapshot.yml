@@ -1,0 +1,58 @@
+# Monthly snapshot of findsaunaplunge.com's public feed, committed here and
+# tagged as a release. Zenodo (once linked) mints a DOI from each release.
+# Hugging Face and Kaggle uploads run only when their tokens are configured.
+name: Snapshot
+on:
+  schedule:
+    - cron: '17 6 1 * *'   # 1st of the month, 06:17 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Fetch feed and write snapshot
+        run: node scripts/snapshot.mjs
+      - name: Commit if changed
+        id: commit
+        run: |
+          git config user.name "findsaunaplunge"
+          git config user.email "findsaunaplunge.ops@gmail.com"
+          git add snapshot
+          if git diff --cached --quiet; then echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          TAG="v$(date -u +%Y.%m)"
+          git commit -m "Snapshot $(date -u +%Y-%m-%d)"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+      - name: Release (one per month; Zenodo listens to these)
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="${{ steps.commit.outputs.tag }}"
+          if gh release view "$TAG" >/dev/null 2>&1; then echo "release $TAG exists"; exit 0; fi
+          gh release create "$TAG" snapshot/venues.json snapshot/venues.csv snapshot/cities.json \
+            --title "Snapshot $TAG" --notes-file snapshot/SNAPSHOT.md
+      - name: Hugging Face (only when HF_TOKEN is set)
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then echo "HF_TOKEN not set; skipping"; exit 0; fi
+          pip install -q -U huggingface_hub
+          hf upload findsaunaplunge/us-sauna-cold-plunge ./snapshot --repo-type dataset --commit-message "Snapshot ${{ steps.commit.outputs.tag }}"
+      - name: Kaggle (only when KAGGLE_KEY is set)
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+        run: |
+          if [ -z "$KAGGLE_KEY" ]; then echo "KAGGLE_KEY not set; skipping"; exit 0; fi
+          pip install -q -U kaggle
+          kaggle datasets version -p ./snapshot -m "Snapshot ${{ steps.commit.outputs.tag }}" --dir-mode zip
