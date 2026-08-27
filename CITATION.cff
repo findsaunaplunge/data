@@ -6,6 +6,7 @@ authors:
   - name: "FindSaunaPlunge"
     website: "https://findsaunaplunge.com"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.22132913
 url: "https://findsaunaplunge.com/data/us-sauna-cold-plunge/"
 repository-code: "https://github.com/findsaunaplunge/data"
 abstract: >-

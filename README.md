@@ -1,5 +1,7 @@
 # US Sauna & Cold Plunge Venue Data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22132913.svg)](https://doi.org/10.5281/zenodo.22132913)
+
 Monthly snapshots of [findsaunaplunge.com](https://findsaunaplunge.com)'s public feed:
 cold plunge, sauna and contrast-therapy venues across US metros, each record
 carrying **the date its details were last checked**.
@@ -30,7 +32,11 @@ it was read, and the quote that supports it: `https://findsaunaplunge.com/venue/
 with numbers ("of the 548 venues checked…") — the figures describe this dataset's
 coverage, not the whole US market.
 
-See [CITATION.cff](CITATION.cff). Releases are tagged monthly (`vYYYY.MM`).
+See [CITATION.cff](CITATION.cff). Releases are tagged monthly (`vYYYY.MM`); Zenodo archives each one.
+
+**DOI (all versions):** https://doi.org/10.5281/zenodo.22132913
+
+> FindSaunaPlunge (2026). *US Sauna & Cold Plunge Venue Data* (v2026.08) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22132913
 
 ## Also available
 
