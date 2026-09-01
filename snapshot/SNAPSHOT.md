@@ -1,7 +1,7 @@
 # Snapshot
 
-- Taken: 2026-08-27
-- Feed generated: 2026-08-27T18:03:55.657Z
+- Taken: 2026-09-01
+- Feed generated: 2026-08-29T20:50:27.378Z
 - Venues: 548
 - Cities: 23
 - Venues publishing a plunge temperature: 57
