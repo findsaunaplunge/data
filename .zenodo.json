@@ -1,0 +1,32 @@
+{
+  "upload_type": "dataset",
+  "title": "US Sauna & Cold Plunge Venue Data",
+  "creators": [
+    { "name": "FindSaunaPlunge" }
+  ],
+  "description": "<p>Cold plunge, sauna and contrast-therapy venues across the US metros that <a href=\"https://findsaunaplunge.com\">findsaunaplunge.com</a> covers. Every record carries the date its details were last checked (<code>lastVerified</code>) and a <code>status</code> stating how it was checked.</p><p>Published temperatures and prices are read from each venue's own pages. On the live site every temperature and price shows the page it came from, the date it was read and the quote that supports it. <strong>An absent field means the venue does not publish that detail. It never means zero.</strong></p><p>Each release is a monthly snapshot of the live feed at <a href=\"https://findsaunaplunge.com/api/v1/venues.json\">findsaunaplunge.com/api/v1/venues.json</a>: the feed exactly as published (JSON), a flat CSV with one row per venue, the metros covered with their venue counts, and a SNAPSHOT.md stating when it was taken and the headline counts. The national summary, with denominators on every figure, is at <a href=\"https://findsaunaplunge.com/data/us-sauna-cold-plunge/\">findsaunaplunge.com/data/us-sauna-cold-plunge/</a>.</p><p>The figures describe this dataset's coverage, not the whole US market. Please quote denominators with numbers.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "cold water immersion",
+    "cold plunge",
+    "sauna",
+    "contrast therapy",
+    "recovery studios",
+    "wellness venues",
+    "prices",
+    "United States",
+    "open data"
+  ],
+  "related_identifiers": [
+    { "identifier": "https://findsaunaplunge.com/api/v1/venues.json", "relation": "isDerivedFrom", "resource_type": "dataset" },
+    { "identifier": "https://findsaunaplunge.com/data/us-sauna-cold-plunge/", "relation": "isDescribedBy", "resource_type": "publication-other" },
+    { "identifier": "https://findsaunaplunge.com/press/", "relation": "isDocumentedBy", "resource_type": "publication-other" }
+  ],
+  "communities": [
+    { "identifier": "sports_science" },
+    { "identifier": "exsport" },
+    { "identifier": "opendata" }
+  ],
+  "notes": "If you use this dataset, please cite it and link to findsaunaplunge.com. Releases are tagged monthly (vYYYY.MM) and each is archived here with its own version DOI under the concept DOI 10.5281/zenodo.22132913, which always resolves to the latest version."
+}

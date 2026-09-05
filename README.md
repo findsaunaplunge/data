@@ -29,14 +29,17 @@ it was read, and the quote that supports it: `https://findsaunaplunge.com/venue/
 ## Licence and citation
 
 [CC BY 4.0](LICENSE). Use it freely; attribute with a link. Please quote denominators
-with numbers ("of the 548 venues checked…") — the figures describe this dataset's
+with numbers ("of the venues checked in this snapshot…") — the figures describe this dataset's
 coverage, not the whole US market.
 
-See [CITATION.cff](CITATION.cff). Releases are tagged monthly (`vYYYY.MM`); Zenodo archives each one.
+See [CITATION.cff](CITATION.cff). Releases are tagged monthly (`vYYYY.MM`); Zenodo archives each one,
+reading its record metadata (keywords, related links, communities) from [`.zenodo.json`](.zenodo.json).
 
 **DOI (all versions):** https://doi.org/10.5281/zenodo.22132913
 
-> FindSaunaPlunge (2026). *US Sauna & Cold Plunge Venue Data* (v2026.08) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22132913
+> FindSaunaPlunge (2026). *US Sauna & Cold Plunge Venue Data* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22132913
+
+Add the version you used (the release tag, e.g. `v2026.09`) when it matters to your reader.
 
 ## Also available
 
