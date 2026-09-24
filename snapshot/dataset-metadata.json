@@ -1,0 +1,15 @@
+{
+  "title": "US Sauna & Cold Plunge Venue Data",
+  "id": "findsaunaplunge/us-sauna-cold-plunge-studios",
+  "subtitle": "Cold plunge, sauna and contrast-therapy venues across US metros, each fact dated and sourced",
+  "description": "Cold plunge, sauna and contrast-therapy venues across the US metros that findsaunaplunge.com covers. Every record carries the date its details were last checked (lastVerified) and a status saying how. In venues.json every published temperature and price carries the page it came from, the date that page was read and a verbatim quote supporting it; a weekly recheck re-reads every source page.\n\nAn absent field means the venue does not publish that detail. It never means zero. pricing.priceFrom lists prices published only as floors (\"from $29\").\n\nFiles: venues.csv (one row per venue), venues.json (the feed as published, with per-fact sources), cities.json (metros covered), SNAPSHOT.md (date and headline counts).\n\nThe venues are those in the metros covered, not a national sample. Temperatures and prices are what venues publish, not measurements.\n\nLive feed: https://findsaunaplunge.com/api/v1/venues.json (CC BY 4.0, no key). National summary with denominators: https://findsaunaplunge.com/data/us-sauna-cold-plunge/. Source repository and monthly releases: https://github.com/findsaunaplunge/data. DOI: https://doi.org/10.5281/zenodo.22132913. Licence CC BY 4.0; please attribute with a link to findsaunaplunge.com.",
+  "licenses": [{ "name": "CC-BY-4.0" }],
+  "keywords": ["health", "fitness", "wellness", "sauna", "cold plunge", "recovery", "united states", "business", "geospatial"],
+  "resources": [
+    { "path": "venues.csv", "description": "One row per venue: address, metro, coordinates, modalities, access model, published prices (USD) and temperatures (°F), hours, contact, and the venue's findsaunaplunge.com page." },
+    { "path": "venues.json", "description": "The findsaunaplunge.com feed exactly as published, including a sources object per fact (sourceUrl, capturedOn, quote)." },
+    { "path": "cities.json", "description": "Metros covered, with venue counts and hub URLs." },
+    { "path": "SNAPSHOT.md", "description": "When the snapshot was taken and its headline counts." },
+    { "path": "README.md", "description": "Dataset card: provenance model, column meanings, caveats, citation." }
+  ]
+}

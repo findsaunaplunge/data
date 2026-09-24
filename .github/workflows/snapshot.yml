@@ -1,6 +1,8 @@
 # Monthly snapshot of findsaunaplunge.com's public feed, committed here and
 # tagged as a release. Zenodo (once linked) mints a DOI from each release.
 # Hugging Face and Kaggle uploads run only when their tokens are configured.
+# snapshot/README.md is the Hugging Face dataset card; snapshot/dataset-metadata.json
+# is Kaggle's; datapackage.json at the root is for Datahub Cloud.
 name: Snapshot
 on:
   schedule:
@@ -55,4 +57,9 @@ jobs:
         run: |
           if [ -z "$KAGGLE_KEY" ]; then echo "KAGGLE_KEY not set; skipping"; exit 0; fi
           pip install -q -U kaggle
-          kaggle datasets version -p ./snapshot -m "Snapshot ${{ steps.commit.outputs.tag }}" --dir-mode zip
+          # First run creates the dataset from snapshot/dataset-metadata.json; later runs add a version.
+          if kaggle datasets status findsaunaplunge/us-sauna-cold-plunge-studios >/dev/null 2>&1; then
+            kaggle datasets version -p ./snapshot -m "Snapshot ${{ steps.commit.outputs.tag }}" --dir-mode zip
+          else
+            kaggle datasets create -p ./snapshot --dir-mode zip
+          fi

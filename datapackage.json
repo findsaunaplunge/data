@@ -1,0 +1,75 @@
+{
+  "name": "us-sauna-cold-plunge-venue-data",
+  "title": "US Sauna & Cold Plunge Venue Data",
+  "description": "Cold plunge, sauna and contrast-therapy venues across the US metros that findsaunaplunge.com covers. Every record carries the date its details were last checked, and every published temperature and price is traceable to the venue's own page (source URL, capture date, verbatim quote). An absent field means the venue does not publish that detail, never zero. Monthly snapshots of the live feed at https://findsaunaplunge.com/api/v1/venues.json.",
+  "homepage": "https://findsaunaplunge.com/data/us-sauna-cold-plunge/",
+  "keywords": ["sauna", "cold plunge", "cold water immersion", "contrast therapy", "wellness venues", "recovery studios", "prices", "United States", "open data"],
+  "licenses": [
+    { "name": "CC-BY-4.0", "title": "Creative Commons Attribution 4.0 International", "path": "https://creativecommons.org/licenses/by/4.0/" }
+  ],
+  "sources": [
+    { "title": "findsaunaplunge.com public feed", "path": "https://findsaunaplunge.com/api/v1/venues.json" },
+    { "title": "Zenodo archive (DOI, all versions)", "path": "https://doi.org/10.5281/zenodo.22132913" }
+  ],
+  "contributors": [
+    { "title": "FindSaunaPlunge", "path": "https://findsaunaplunge.com", "role": "publisher" }
+  ],
+  "resources": [
+    {
+      "name": "venues",
+      "title": "Venues (one row per venue)",
+      "path": "snapshot/venues.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          { "name": "id", "type": "string", "description": "Stable venue id; also the last path segment of url" },
+          { "name": "name", "type": "string" },
+          { "name": "status", "type": "string", "description": "community | brand_import | verified — how the record was checked", "constraints": { "enum": ["community", "brand_import", "verified"] } },
+          { "name": "lastVerified", "type": "date", "description": "Date the venue's own pages were last read" },
+          { "name": "brand", "type": "string", "description": "Chain or franchise slug, where applicable" },
+          { "name": "street", "type": "string" },
+          { "name": "locality", "type": "string" },
+          { "name": "state", "type": "string", "description": "Two-letter postal code" },
+          { "name": "zip", "type": "string" },
+          { "name": "citySlug", "type": "string", "description": "Metro the venue is listed under; metros may span state lines" },
+          { "name": "cityName", "type": "string" },
+          { "name": "lat", "type": "number", "description": "Geocoded from the address; empty when no reliable pin exists" },
+          { "name": "lng", "type": "number" },
+          { "name": "modalities", "type": "string", "description": "Pipe-separated modality slugs (cold_plunge, traditional_sauna, infrared_sauna, steam_room, red_light, cryotherapy, compression, …)" },
+          { "name": "access", "type": "string", "constraints": { "enum": ["private_suite", "communal", "mixed", "unpublished"] } },
+          { "name": "dropIn", "type": "number", "description": "Published single-visit price, USD" },
+          { "name": "dayPass", "type": "number", "description": "Published day-pass price, USD" },
+          { "name": "membershipMo", "type": "number", "description": "Cheapest published monthly membership, USD" },
+          { "name": "priceFrom", "type": "string", "description": "Pipe-separated names of price columns the venue publishes only as a floor (\"from $29\")" },
+          { "name": "plungeF_low", "type": "number", "description": "Published cold plunge temperature range, °F" },
+          { "name": "plungeF_high", "type": "number" },
+          { "name": "saunaF_low", "type": "number", "description": "Published sauna temperature range, °F" },
+          { "name": "saunaF_high", "type": "number" },
+          { "name": "hours", "type": "string", "description": "Opening hours as the venue publishes them" },
+          { "name": "website", "type": "string", "format": "uri" },
+          { "name": "bookingUrl", "type": "string", "format": "uri" },
+          { "name": "phone", "type": "string" },
+          { "name": "url", "type": "string", "format": "uri", "description": "The venue's page on findsaunaplunge.com, showing the source and date behind every figure" }
+        ],
+        "missingValues": [""]
+      }
+    },
+    {
+      "name": "venues-json",
+      "title": "Venues (feed as published, with per-fact sources)",
+      "path": "snapshot/venues.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "description": "The findsaunaplunge.com feed exactly as published. Each venue carries a sources object: for every published fact, the sourceUrl it came from, the capturedOn date that page was read, and a verbatim quote supporting it."
+    },
+    {
+      "name": "cities",
+      "title": "Metros covered",
+      "path": "snapshot/cities.json",
+      "format": "json",
+      "mediatype": "application/json"
+    }
+  ]
+}

@@ -10,6 +10,8 @@ carrying **the date its details were last checked**.
 - `snapshot/venues.csv` — one row per venue, flat columns
 - `snapshot/cities.json` — metros covered, with venue counts
 - `snapshot/SNAPSHOT.md` — when it was taken and the headline counts
+- `snapshot/README.md` — the dataset card (also the Hugging Face card), with column meanings
+- `datapackage.json` — Frictionless Data Package description of the files
 
 ## What is in a record
 
@@ -40,6 +42,11 @@ reading its record metadata (keywords, related links, communities) from [`.zenod
 > FindSaunaPlunge (2026). *US Sauna & Cold Plunge Venue Data* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22132913
 
 Add the version you used (the release tag, e.g. `v2026.09`) when it matters to your reader.
+
+## Mirrors
+
+- Hugging Face: https://huggingface.co/datasets/findsaunaplunge/us-sauna-cold-plunge
+- Kaggle: https://www.kaggle.com/datasets/findsaunaplunge/us-sauna-cold-plunge-studios
 
 ## Also available
 
