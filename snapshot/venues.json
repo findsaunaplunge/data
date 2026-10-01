@@ -4,10 +4,10 @@
     "name": "FindSaunaPlunge",
     "url": "https://findsaunaplunge.com"
   },
-  "generatedAt": "2026-08-29T20:50:27.378Z",
+  "generatedAt": "2026-09-27T22:58:55.463Z",
   "notes": "Absent fields mean the value is unknown, not zero. Every venue carries lastVerified — please surface it when citing a fact.",
   "counts": {
-    "venues": 548,
+    "venues": 546,
     "cities": 23,
     "states": 16
   },
@@ -571,7 +571,7 @@
       "name": "Do Not Disturb Atlanta",
       "url": "https://findsaunaplunge.com/venue/do-not-disturb-atlanta-atlanta-ga/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "675 Ponce De Leon Ave NE E186",
         "city": "Atlanta",
@@ -630,16 +630,16 @@
         },
         "hours": {
           "sourceUrl": "https://www.donotdisturbatl.com/contact-us/",
-          "capturedOn": "2026-08-16",
-          "quote": "10:00 AM – 8:00 PM"
+          "capturedOn": "2026-09-24",
+          "quote": "Monday - Friday 08:00 AM - 8:00 PM Saturday 10:00 AM - 5:00 PM Sunday 10:00 AM - 5:00 PM"
         }
       },
-      "hours": "Monday-Friday 10:00 AM - 8:00 PM",
+      "hours": "Monday-Friday 8:00 AM - 8:00 PM, Saturday-Sunday 10:00 AM - 5:00 PM",
       "website": "https://www.donotdisturbatl.com/",
       "bookingUrl": "https://donotdisturb.zenoti.com/webstoreNew/services",
       "phone": "+1-404-590-6408",
       "featured": false,
-      "summary": "Do Not Disturb Atlanta is a wellness and recovery studio at 675 Ponce De Leon Ave NE, outside Ponce City Market in Atlanta. Its Private Contrast Room is a private treatment suite pairing a dry sauna with a cold plunge and a shower, bookable on a pay-per-visit basis for $60 or through a monthly membership that includes four 50-minute (or eight 25-minute) contrast-room credits. The studio also offers red light therapy and Hyperice compression therapy alongside IV hydration, massage, and spa services. It is open Monday-Friday from 10:00 AM to 8:00 PM, with separate hours on weekends."
+      "summary": "Do Not Disturb Atlanta is a wellness and recovery studio at 675 Ponce De Leon Ave NE, outside Ponce City Market in Atlanta. Its Private Contrast Room is a private treatment suite pairing a dry sauna with a cold plunge and a shower, bookable on a pay-per-visit basis for $60 or through a monthly membership that includes four 50-minute (or eight 25-minute) contrast-room credits. The studio also offers red light therapy and Hyperice compression therapy alongside IV hydration, massage, and spa services. It is open Monday-Friday from 8:00 AM to 8:00 PM and 10:00 AM to 5:00 PM on Saturday and Sunday."
     },
     {
       "id": "the-salt-center-atlanta-ga",
@@ -1724,7 +1724,7 @@
       "name": "Alive and Well Austin",
       "url": "https://findsaunaplunge.com/venue/alive-and-well-austin-austin-tx/",
       "status": "community",
-      "lastVerified": "2026-08-01",
+      "lastVerified": "2026-09-14",
       "brand": "alive-and-well",
       "address": {
         "street": "3944 Ranch Road 620 S, Bldg 6 Ste 100",
@@ -1799,8 +1799,8 @@
         },
         "hours": {
           "sourceUrl": "https://aliveandwell.health/pages/locations/austin",
-          "capturedOn": "2026-08-01",
-          "quote": "Monday - Friday 9AM–8PM Saturday 9AM–6PM Sunday 10AM–5PM"
+          "capturedOn": "2026-09-14",
+          "quote": "Monday - Thursday 9AM-8PM Friday 9AM-6PM Saturday 9AM-6PM Sunday 10AM-5PM"
         },
         "sessionMinutes": {
           "sourceUrl": "https://aliveandwell.health/pages/service/hot-cold-immersion-therapy",
@@ -1823,7 +1823,7 @@
           "quote": "A valid credit card is required to hold your reservation. Your card secures your appointment time and will only be charged if you fail to arrive or cancel outside the required cancellation window."
         }
       },
-      "hours": "Mon–Fri 9:00am–8:00pm, Sat 9:00am–6:00pm, Sun 10:00am–5:00pm",
+      "hours": "Mon–Thu 9:00am–8:00pm, Fri–Sat 9:00am–6:00pm, Sun 10:00am–5:00pm",
       "website": "https://aliveandwell.health/pages/locations/austin",
       "bookingUrl": "https://aliveandwell.health/pages/book-appointments",
       "phone": "+1-512-580-5775",
@@ -2098,7 +2098,7 @@
       "name": "CØNTRAST",
       "url": "https://findsaunaplunge.com/venue/contrast-austin-tx/",
       "status": "community",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "1915 E Martin Luther King Jr Blvd #101",
         "city": "Austin",
@@ -2145,48 +2145,53 @@
       "sources": {
         "dropIn": {
           "sourceUrl": "https://contrastatx.com/communal/",
-          "capturedOn": "2026-08-24",
+          "capturedOn": "2026-09-02",
           "quote": "Drop-in $29 one session"
         },
         "membershipMo": {
-          "sourceUrl": "https://www.contrastatx.com/plans-pricing",
-          "capturedOn": "2026-08-01",
+          "sourceUrl": "https://book.contrastatx.com/pricing-plans/list",
+          "capturedOn": "2026-09-24",
           "quote": "Communal Cøntrast Plan $ 144 144$ Every month 8 Communal Contrast Sessions/mo ($18/session)"
         },
         "classPack": {
-          "sourceUrl": "https://www.contrastatx.com/plans-pricing",
-          "capturedOn": "2026-08-01",
+          "sourceUrl": "https://book.contrastatx.com/pricing-plans/list",
+          "capturedOn": "2026-09-24",
           "quote": "(up to 36% off) Join Now Communal 4 Pack $ 100"
         },
         "hours": {
           "sourceUrl": "https://contrastatx.com/",
-          "capturedOn": "2026-08-24",
+          "capturedOn": "2026-09-02",
           "quote": "Sun–Thu: 10am – 9pm Fri–Sat: 10am – 10pm"
         },
         "access": {
           "sourceUrl": "https://contrastatx.com/",
-          "capturedOn": "2026-08-24",
-          "quote": "The Garden COMMUNAL · 60 MIN shared sauna + cold plunge The Private Suite PRIVATE · 50 MIN your own sauna + plunge"
+          "capturedOn": "2026-09-24",
+          "quote": "The Garden COMMUNAL · 60 MIN shared sauna + cold plunge + shower The Private Suite PRIVATE · 60 MIN your own sauna + plunge + shower"
         },
         "sessionMinutes": {
           "sourceUrl": "https://contrastatx.com/",
-          "capturedOn": "2026-08-24",
-          "quote": "The Garden COMMUNAL · 60 MIN shared sauna + cold plunge The Private Suite PRIVATE · 50 MIN your own sauna + plunge"
+          "capturedOn": "2026-09-24",
+          "quote": "The Garden COMMUNAL · 60 MIN shared sauna + cold plunge + shower The Private Suite PRIVATE · 60 MIN your own sauna + plunge + shower"
         },
         "plungeHardware": {
           "sourceUrl": "https://contrastatx.com/communal/",
-          "capturedOn": "2026-08-24",
+          "capturedOn": "2026-09-02",
           "quote": "Traditional wood sauna, two cold plunges and an outdoor shower in a garden courtyard"
         },
         "swimwear": {
           "sourceUrl": "https://contrastatx.com/communal/",
-          "capturedOn": "2026-08-24",
+          "capturedOn": "2026-09-02",
           "quote": "A bathing suit — the Garden is a shared space."
         },
         "cancellationHours": {
           "sourceUrl": "https://contrastatx.com/privatecontrastroom/",
-          "capturedOn": "2026-08-24",
+          "capturedOn": "2026-09-02",
           "quote": "Cancellations need an hour."
+        },
+        "ageMin": {
+          "sourceUrl": "https://contrastatx.com/privatecontrastroom/",
+          "capturedOn": "2026-09-24",
+          "quote": "Is there an age minimum? 16, unless accompanied by an adult."
         }
       },
       "hours": "Sun–Thu 10:00am–9:00pm, Fri–Sat 10:00am–10:00pm",
@@ -2415,7 +2420,7 @@
       "name": "Kuya Wellness",
       "url": "https://findsaunaplunge.com/venue/kuya-wellness-austin-tx/",
       "status": "community",
-      "lastVerified": "2026-08-01",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "4401 Freidrich Ln Unit 300",
         "city": "Austin",
@@ -2478,13 +2483,13 @@
         },
         "access": {
           "sourceUrl": "https://kuyawellness.com/saunacoldplunge/",
-          "capturedOn": "2026-08-01",
-          "quote": "Come sweat it out in our custom-built 15 – person cedar hot rock sauna. With low-lighting and dry heat, we welcome you to detoxify in this cozy, communal space."
+          "capturedOn": "2026-09-24",
+          "quote": "25 Person Social Sauna Recharge and come together in our Social Sauna, designed for conversation and community."
         },
         "plungeHardware": {
           "sourceUrl": "https://kuyawellness.com/saunacoldplunge/",
-          "capturedOn": "2026-08-01",
-          "quote": "Thermoregulated Cold Plunges Our carefully calibrated cold plunge offers a transformative experience that goes beyond traditional relaxation techniques. Our tanks are drained & cleaned every night."
+          "capturedOn": "2026-09-24",
+          "quote": "Kuya offers three thermoregulated cold plunges ranging from the low 40s to mid-50s°F"
         }
       },
       "hours": "Mon–Fri 7:30am–9:00pm, Sat–Sun 9:00am–9:00pm",
@@ -2492,80 +2497,7 @@
       "bookingUrl": "https://kuyawellness.zenoti.com/webstoreNew/2177a027-50bd-46d1-89c2-3378ceeef2d7",
       "phone": "+1-512-535-6594",
       "featured": false,
-      "summary": "Kuya Wellness is a wellness club in southeast Austin built around a 15-person communal cedar hot-rock sauna, thermoregulated cold plunges, and sensory-deprivation float tanks, alongside IV and clinical therapy services. No sauna or plunge operating temperatures are published; a $65 day pass covers unlimited sauna and cold plunge access."
-    },
-    {
-      "id": "melt-well-sauna-plunge-studio-austin-tx",
-      "name": "Melt Well — Sauna & Plunge Studio",
-      "url": "https://findsaunaplunge.com/venue/melt-well-sauna-plunge-studio-austin-tx/",
-      "status": "community",
-      "lastVerified": "2026-08-01",
-      "address": {
-        "street": "5400 Brodie Lane, Suite 250",
-        "city": "Austin",
-        "state": "TX",
-        "zip": "78745",
-        "country": "US"
-      },
-      "city": {
-        "slug": "austin-tx",
-        "name": "Austin",
-        "state": "Texas",
-        "stateSlug": "tx",
-        "url": "https://findsaunaplunge.com/tx/austin-tx/"
-      },
-      "geo": {
-        "lat": 30.228888,
-        "lng": -97.822742
-      },
-      "modalities": [
-        {
-          "value": "cold_plunge",
-          "label": "Cold Plunge"
-        },
-        {
-          "value": "infrared_sauna",
-          "label": "Infrared Sauna"
-        },
-        {
-          "value": "red_light",
-          "label": "Red Light Therapy"
-        }
-      ],
-      "access": "private_suite",
-      "pricing": {
-        "membershipMo": 189,
-        "intro": 45,
-        "note": "Monthly tiers at list price: SaunaWell $189 (unlimited sauna), ContrastWell $279 (8x contrast/mo), UnlimitedWell $379 (unlimited contrast) — all currently offered at a limited \"FOUNDING150\" promo rate of $139/$199/$299 that the venue says will not be offered again. New-client intro offers: $45 contrast, $25 sauna. Session packs are sold but unpriced on the site, and the brand states \"Single Session Pricing Varies by Location\", so no standing Austin drop-in is recorded. Brand-level (not Austin-attributed) statements: plunge 45–50°F, sauna 130–165°F preheated to 140°F, contrast sessions 60 min, 6-hour cancellation, under-18 sauna contraindication."
-      },
-      "sources": {
-        "membershipMo": {
-          "sourceUrl": "https://www.melt-well.com/austin",
-          "capturedOn": "2026-08-01",
-          "quote": "SAUNAWELL $189 - NOW $139/month Unlimited Sauna Membership"
-        },
-        "intro": {
-          "sourceUrl": "https://www.melt-well.com/austin",
-          "capturedOn": "2026-08-01",
-          "quote": "INTRO SESSION CONTRAST | $45 INTRO SESSION SAUNA | $25"
-        },
-        "hours": {
-          "sourceUrl": "https://www.melt-well.com/austin",
-          "capturedOn": "2026-08-01",
-          "quote": "Open 7 Days a Week Weekdays: 8am - 8pm Weekends: 8am-6pm"
-        },
-        "access": {
-          "sourceUrl": "https://www.melt-well.com/austin",
-          "capturedOn": "2026-08-01",
-          "quote": "Recover with best in class equipment: Infrared sauna, cold plunge, medical grade red light & vitamin C showers all to-yourself."
-        }
-      },
-      "hours": "Mon–Fri 8:00am–8:00pm, Sat–Sun 8:00am–6:00pm",
-      "website": "https://www.melt-well.com/austin",
-      "bookingUrl": "https://clients.mindbodyonline.com/classic/ws?studioid=5744169",
-      "phone": "+1-512-844-7585",
-      "featured": false,
-      "summary": "Melt Well is a private-suite contrast therapy studio at 5400 Brodie Lane in south Austin, where each booked suite holds an infrared sauna, a cold plunge, medical-grade red light and a vitamin C shower rather than a shared recovery floor. The brand publishes plunge and sauna temperature ranges only on location-generic pages, so no operating temperature is recorded for the Austin studio; the Austin page lists membership tiers and intro offers but no standing single-session price."
+      "summary": "Kuya Wellness is a wellness club in southeast Austin built around two communal cedar dry saunas (a 15-person Silent Sauna and a 25-person Social Sauna), three thermoregulated cold plunges, and sensory-deprivation float tanks, alongside IV and clinical therapy services. No sauna or plunge setpoints are published (the plunges are described only as a loose range); a $65 day pass covers unlimited sauna and cold plunge access."
     },
     {
       "id": "sauna-house-austin-north-loop-austin-tx",
@@ -2763,7 +2695,7 @@
       "name": "Perspire Sauna Studio — Austin Southwest",
       "url": "https://findsaunaplunge.com/venue/perspire-sauna-studio-austin-southwest-austin-tx/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "4404 West William Cannon Drive Suite C",
         "city": "Austin",
@@ -2822,8 +2754,8 @@
         },
         "classPack": {
           "sourceUrl": "https://www.perspiresaunastudio.com/locations/austin-southwest",
-          "capturedOn": "2026-08-16",
-          "quote": "4 Session Pack Buy a 4 Session Pack $ 180"
+          "capturedOn": "2026-09-14",
+          "quote": "Buy a 4 Session Pack $ 180 One time payment"
         },
         "sessionMinutes": {
           "sourceUrl": "https://www.perspiresaunastudio.com/locations/austin-southwest",
@@ -2847,7 +2779,7 @@
       "name": "Perspire Sauna Studio — Georgetown",
       "url": "https://findsaunaplunge.com/venue/perspire-sauna-studio-georgetown-tx/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "1013 West University Avenue Ste 140",
         "city": "Georgetown",
@@ -2885,43 +2817,43 @@
       },
       "sources": {
         "access": {
-          "sourceUrl": "https://www.perspiresaunastudio.com/tx/georgetown/",
-          "capturedOn": "2026-08-16",
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/georgetown",
+          "capturedOn": "2026-09-14",
           "quote": "Private Infrared Sauna Suites"
         },
         "intro": {
-          "sourceUrl": "https://www.perspiresaunastudio.com/tx/georgetown/",
-          "capturedOn": "2026-08-16",
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/georgetown",
+          "capturedOn": "2026-09-14",
           "quote": "Book $ 20 Intro Session"
         },
         "dropIn": {
-          "sourceUrl": "https://www.perspiresaunastudio.com/tx/georgetown/",
-          "capturedOn": "2026-08-16",
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/georgetown",
+          "capturedOn": "2026-09-14",
           "quote": "Single Session Exude radiance & increase longevity $ 50"
         },
         "membershipMo": {
-          "sourceUrl": "https://www.perspiresaunastudio.com/tx/georgetown/",
-          "capturedOn": "2026-08-16",
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/georgetown",
+          "capturedOn": "2026-09-14",
           "quote": "IRelax Elevate your mood & release tension $ 99"
         },
         "classPack": {
-          "sourceUrl": "https://www.perspiresaunastudio.com/tx/georgetown/",
-          "capturedOn": "2026-08-16",
-          "quote": "4 Session Pack Buy a 4 Session Pack $ 140"
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/georgetown",
+          "capturedOn": "2026-09-14",
+          "quote": "Buy a 4 Session Pack $ 140 One time payment"
         },
         "sessionMinutes": {
-          "sourceUrl": "https://www.perspiresaunastudio.com/tx/georgetown/",
-          "capturedOn": "2026-08-16",
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/georgetown",
+          "capturedOn": "2026-09-14",
           "quote": "Guests are welcome to sauna for up to 40 minutes."
         },
         "hours": {
-          "sourceUrl": "https://www.perspiresaunastudio.com/tx/georgetown/",
-          "capturedOn": "2026-08-16",
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/georgetown",
+          "capturedOn": "2026-09-14",
           "quote": "Monday 7:00 AM - 9:00 PM Tuesday 7:00 AM - 9:00 PM"
         }
       },
       "hours": "Mon-Fri 7:00 AM-9:00 PM; Sat-Sun 8:00 AM-8:00 PM",
-      "website": "https://www.perspiresaunastudio.com/tx/georgetown/",
+      "website": "https://www.perspiresaunastudio.com/locations/georgetown",
       "phone": "+1-737-290-0153",
       "featured": false,
       "summary": "Perspire Sauna Studio's Georgetown location, about 45 km north of downtown Austin, is a franchise infrared sauna studio offering private full-spectrum infrared sauna suites with built-in red light therapy and a SNØ cold shower. A single session is $50, with a $20 first-visit intro session, and monthly credit plans start at $99/month for four sessions."
@@ -3379,7 +3311,7 @@
       "name": "Perspire Sauna Studio — Hill Country Galleria",
       "url": "https://findsaunaplunge.com/venue/perspire-sauna-studio-hill-country-galleria-bee-cave-tx/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "13500 Galleria Circle Suite U-110",
         "city": "Bee Cave",
@@ -3438,8 +3370,8 @@
         },
         "classPack": {
           "sourceUrl": "https://www.perspiresaunastudio.com/locations/hill-country-galleria",
-          "capturedOn": "2026-08-16",
-          "quote": "4 Session Pack Buy a 4 Session Pack $ 180"
+          "capturedOn": "2026-09-14",
+          "quote": "Buy a 4 Session Pack $ 180 One time payment"
         },
         "sessionMinutes": {
           "sourceUrl": "https://www.perspiresaunastudio.com/locations/hill-country-galleria",
@@ -3868,7 +3800,7 @@
       "name": "Float Boston",
       "url": "https://findsaunaplunge.com/venue/float-boston-somerville-ma/",
       "status": "community",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "515 Medford Street",
         "city": "Somerville",
@@ -3912,7 +3844,10 @@
       "access": "private_suite",
       "pricing": {
         "dropIn": 75,
-        "membershipMo": 65
+        "membershipMo": 59,
+        "priceFrom": [
+          "membershipMo"
+        ]
       },
       "sources": {
         "dropIn": {
@@ -3921,31 +3856,31 @@
           "quote": "\"description\": \"60-minute float session for returning floaters.\", \"price\": \"75.00\""
         },
         "membershipMo": {
-          "sourceUrl": "https://floatboston.com/",
-          "capturedOn": "2026-08-16",
-          "quote": "memberships start at $65/month"
+          "sourceUrl": "https://floatboston.com/memberships/",
+          "capturedOn": "2026-09-24",
+          "quote": "Float Boston memberships start at $59/month"
         },
         "access": {
-          "sourceUrl": "https://floatboston.com/contrast-therapy",
-          "capturedOn": "2026-08-24",
+          "sourceUrl": "https://floatboston.com/contrast-therapy/",
+          "capturedOn": "2026-09-24",
           "quote": "Private suite — the entire room is yours"
         },
         "sessionMinutes": {
-          "sourceUrl": "https://floatboston.com/contrast-therapy",
-          "capturedOn": "2026-08-24",
+          "sourceUrl": "https://floatboston.com/contrast-therapy/",
+          "capturedOn": "2026-09-24",
           "quote": "Every session is a full 60-minute private suite"
         },
         "swimwear": {
-          "sourceUrl": "https://floatboston.com/contrast-therapy",
-          "capturedOn": "2026-08-16",
+          "sourceUrl": "https://floatboston.com/contrast-therapy/",
+          "capturedOn": "2026-09-24",
           "quote": "Wear a swimsuit or athletic shorts you're comfortable getting wet."
         }
       },
       "website": "https://floatboston.com/",
-      "bookingUrl": "https://floatboston.com/contrast-therapy",
+      "bookingUrl": "https://floatboston.com/contrast-therapy/",
       "phone": "+1-617-875-0725",
       "featured": false,
-      "summary": "Float Boston is a float therapy and recovery center in Somerville with sensory-deprivation float tanks, localized cryotherapy, and a private contrast therapy suite pairing an infrared sauna with built-in red light therapy and a cold plunge for up to two people. The suite is booked as a full 60-minute private session. A standard single float session runs $75, and monthly float memberships start at $65/month, which includes one float per month plus a discount on cryotherapy."
+      "summary": "Float Boston is a float therapy and recovery center in Somerville with sensory-deprivation float tanks, localized cryotherapy, and a private contrast therapy suite pairing an infrared sauna with built-in red light therapy and a cold plunge for up to two people. The suite is booked as a full 60-minute private session. A standard single float session runs $75, and monthly memberships start at $59/month, which includes one float per month plus 25% off additional services."
     },
     {
       "id": "republic-fitness-davis-square-restore-spa-somerville-ma",
@@ -4873,7 +4808,7 @@
       "name": "Sky Spa Sauna",
       "url": "https://findsaunaplunge.com/venue/sky-spa-sauna-buffalo-grove-il/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "1501 Busch Pkwy",
         "city": "Buffalo Grove",
@@ -4904,12 +4839,13 @@
       ],
       "access": "mixed",
       "pricing": {
-        "dayPass": 55
+        "dayPass": 55,
+        "classPack": 440
       },
       "sources": {
         "dayPass": {
-          "sourceUrl": "https://skyspasauna.com/admission-and-pricing-old/",
-          "capturedOn": "2026-08-16",
+          "sourceUrl": "https://skyspasauna.com/admission-and-pricing/",
+          "capturedOn": "2026-09-24",
           "quote": "Adults $55"
         },
         "hours": {
@@ -4918,9 +4854,14 @@
           "quote": "Mon-Fri: 3pm – 11pm Sat-Sun: 12pm – 11pm"
         },
         "access": {
-          "sourceUrl": "https://skyspasauna.com/admission-and-pricing-old/",
-          "capturedOn": "2026-08-16",
-          "quote": "Price includes 10 guests. $15.00 per additional person up to 20"
+          "sourceUrl": "https://skyspasauna.com/admission-and-pricing/",
+          "capturedOn": "2026-09-24",
+          "quote": "Private Suite Pricing Private Suite A Price includes 10 guests. $15.00 per additional person up to 15 Admission not included. $55 per person."
+        },
+        "classPack": {
+          "sourceUrl": "https://skyspasauna.com/admission-and-pricing/",
+          "capturedOn": "2026-09-24",
+          "quote": "Packages 10 pack $440"
         }
       },
       "hours": "Mon-Fri: 3pm-11pm, Sat-Sun: 12pm-11pm",
@@ -5731,7 +5672,7 @@
       "name": "AIRE Ancient Baths Chicago",
       "url": "https://findsaunaplunge.com/venue/aire-ancient-baths-chicago-il/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "800 W Superior St",
         "city": "Chicago",
@@ -5763,12 +5704,12 @@
       "access": "unpublished",
       "sources": {
         "hours": {
-          "sourceUrl": "https://beaire.com/en/aire-ancient-baths-chicago/experiences",
-          "capturedOn": "2026-08-16",
-          "quote": "Phone assistance Monday to Sunday from 9:00 AM to 10:00 PM"
+          "sourceUrl": "https://beaire.com/en/aire-ancient-baths-chicago",
+          "capturedOn": "2026-09-24",
+          "quote": "Opening hours Monday 8AM-10PM Tuesday & Wednesday 9AM-10PM Thursday 9AM-11PM Friday to Sunday 8AM-11PM"
         }
       },
-      "hours": "Phone assistance for booking available Monday to Sunday, 9:00 AM to 10:00 PM.",
+      "hours": "Mon 8:00am–10:00pm, Tue–Wed 9:00am–10:00pm, Thu 9:00am–11:00pm, Fri–Sun 8:00am–11:00pm",
       "website": "https://beaire.com/en/aire-ancient-baths-chicago",
       "bookingUrl": "https://beaire.com/en/aire-ancient-baths-chicago/experiences",
       "phone": "+1-312-312-9610",
@@ -6477,7 +6418,7 @@
       "name": "Alive and Well",
       "url": "https://findsaunaplunge.com/venue/alive-and-well-dallas-tx/",
       "status": "community",
-      "lastVerified": "2026-07-31",
+      "lastVerified": "2026-09-24",
       "brand": "alive-and-well",
       "address": {
         "street": "4205 Buena Vista St, Ste 250",
@@ -6552,9 +6493,9 @@
           "quote": "Day Pass $ 59/day"
         },
         "hours": {
-          "sourceUrl": "https://aliveandwell.health/dallas/",
-          "capturedOn": "2026-07-31",
-          "quote": "Monday - Thursday 8AM–8PM"
+          "sourceUrl": "https://aliveandwell.health/pages/locations/dallas",
+          "capturedOn": "2026-09-24",
+          "quote": "Monday - Thursday 7AM-8PM Friday 7AM - 6PM Saturday 8AM-6PM Sunday 10AM-6PM"
         },
         "swimwear": {
           "sourceUrl": "https://aliveandwell.health/pages/faqs",
@@ -6562,18 +6503,18 @@
           "quote": "Guests should wear their own swimwear while using the sauna and cold plunge."
         },
         "sessionMinutes": {
-          "sourceUrl": "https://aliveandwell.health/dallas-traditional-sauna-cold-plunge/",
-          "capturedOn": "2026-07-31",
+          "sourceUrl": "https://aliveandwell.health/pages/service/hot-cold-immersion-therapy",
+          "capturedOn": "2026-09-24",
           "quote": "25-40 Minutes"
         },
         "classPack": {
-          "sourceUrl": "https://aliveandwell.health/dallas-traditional-sauna-cold-plunge/",
-          "capturedOn": "2026-07-31",
+          "sourceUrl": "https://aliveandwell.health/pages/service/hot-cold-immersion-therapy",
+          "capturedOn": "2026-09-24",
           "quote": "$250/10-Pack"
         }
       },
-      "hours": "Mon–Thu 8:00am–8:00pm, Fri–Sat 8:00am–6:00pm, Sun 10:00am–6:00pm",
-      "website": "https://aliveandwell.health/dallas/",
+      "hours": "Mon–Thu 7:00am–8:00pm, Fri 7:00am–6:00pm, Sat 8:00am–6:00pm, Sun 10:00am–6:00pm",
+      "website": "https://aliveandwell.health/pages/locations/dallas",
       "bookingUrl": "https://aliveandwell.health/pages/book-appointments",
       "phone": "+1-214-919-0444",
       "featured": false,
@@ -7684,7 +7625,7 @@
       "name": "R3 Spa",
       "url": "https://findsaunaplunge.com/venue/r3-spa-englewood-co/",
       "status": "community",
-      "lastVerified": "2026-08-15",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "2805 S Broadway",
         "city": "Englewood",
@@ -7723,46 +7664,46 @@
       "pricing": {
         "dropIn": 35,
         "membershipMo": 149,
-        "note": "Single session $35. One-month unlimited $149; three-month unlimited $375. Bundles: 5 sessions $150 (valid three months), 10 sessions $250 (valid six months). No day pass is published."
+        "note": "Single session $35. One-month unlimited $149; three-month unlimited $375. The only bundle now published is ten sessions, listed at $350 and shown at a $175 anniversary price whose stated end date has passed; the earlier five-session bundle is no longer listed. No day pass is published."
       },
       "sources": {
         "saunaF": {
           "sourceUrl": "https://www.r3experience.com/",
-          "capturedOn": "2026-08-15",
+          "capturedOn": "2026-09-14",
           "quote": "Our Finnish sauna runs at 190°F, helping your body warm up, relax, and improve circulation."
         },
         "dropIn": {
           "sourceUrl": "https://www.r3experience.com/",
-          "capturedOn": "2026-08-15",
+          "capturedOn": "2026-09-14",
           "quote": "(compare to $35 a single session)"
         },
         "membershipMo": {
           "sourceUrl": "https://www.r3experience.com/",
-          "capturedOn": "2026-08-15",
+          "capturedOn": "2026-09-14",
           "quote": "149$ Every month"
         },
         "access": {
           "sourceUrl": "https://www.r3experience.com/",
-          "capturedOn": "2026-08-15",
+          "capturedOn": "2026-09-14",
           "quote": "R3 Spa is a clean, co-ed, alcohol-free wellness space where guests can relax, reset, and enjoy a friendly social atmosphere."
         },
         "hours": {
           "sourceUrl": "https://www.r3experience.com/",
-          "capturedOn": "2026-08-15",
-          "quote": "Mon, Tue, Thu, Fri, 7 AM - 10 AM 4 PM - 9 PM ​ Sat, Sun 10 AM - 5PM Wed Closed for Deep Cleaning"
+          "capturedOn": "2026-09-14",
+          "quote": "Mon, Tue, Thu, Fri, 7 AM - 10 AM 4 PM - 9 PM ​ Sat, Sun 9 AM - 11 AM 4PM - 7PM Wed Closed for Deep Cleaning"
         },
         "sessionMinutes": {
-          "sourceUrl": "https://www.r3experience.com/booking-calendar/sauna-cold-plunge-session",
-          "capturedOn": "2026-08-15",
-          "quote": "A 60-minute session with full use of our sauna, cold plunges and showers."
+          "sourceUrl": "https://www.r3experience.com/",
+          "capturedOn": "2026-09-14",
+          "quote": "60-minute sauna + cold plunge session"
         },
         "coedNote": {
           "sourceUrl": "https://www.r3experience.com/",
-          "capturedOn": "2026-08-15",
+          "capturedOn": "2026-09-14",
           "quote": "R3 Spa is a clean, co-ed, alcohol-free wellness space where guests can relax, reset, and enjoy a friendly social atmosphere."
         }
       },
-      "hours": "Monday, Tuesday, Thursday and Friday 7 AM to 10 AM and 4 PM to 9 PM; Saturday and Sunday 10 AM to 5 PM; closed Wednesday for deep cleaning",
+      "hours": "Monday, Tuesday, Thursday and Friday 7 AM to 10 AM and 4 PM to 9 PM; Saturday and Sunday 9 AM to 11 AM and 4 PM to 7 PM; closed Wednesday for deep cleaning",
       "website": "https://www.r3experience.com/",
       "bookingUrl": "https://www.r3experience.com/booking-calendar/sauna-cold-plunge-session",
       "phone": "+1-720-313-4768",
@@ -8016,7 +7957,7 @@
       "name": "Therma Haus",
       "url": "https://findsaunaplunge.com/venue/therma-haus-denver-co/",
       "status": "community",
-      "lastVerified": "2026-08-15",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "2520 Wewatta Way",
         "city": "Denver",
@@ -8048,51 +7989,51 @@
       "access": "communal",
       "temps": {
         "plungeF": [
-          36,
-          50
+          40,
+          60
         ],
         "saunaF": [
-          170,
-          190
+          185,
+          200
         ]
       },
       "pricing": {
         "dropIn": 40,
         "membershipMo": 90,
-        "note": "Single session $40. The $90 per month membership is an introductory Founding Member rate, limited to the first 100 members and to a member's first 6 months; the venue does not publish the standard rate that follows. Other memberships: $120 for eight sessions, $165 unlimited, $120 off-peak unlimited. Session packs: $150 for five, $270 for ten, $480 for twenty. No day pass is published. The homepage separately describes the plunges as \"chilled to 35°F\" while the services section names 36°F, 42°F and 50°F; the three stated setpoints are recorded here."
+        "note": "Single session $40. Memberships: $90 per month for four sessions, $120 for eight, $165 unlimited; cancellable with three days' notice. Grand-opening offers for local guests only: two sessions for $25, five sessions for $99. Towel rental $5. No day pass is published. The homepage lists four plunges at 40°F, 47°F, 53°F and 60°F; the recorded range spans those four setpoints."
       },
       "sources": {
         "plungeF": {
           "sourceUrl": "https://thermahausdenver.com/",
-          "capturedOn": "2026-08-15",
-          "quote": "36°F, 42°F, and 50°F"
+          "capturedOn": "2026-09-14",
+          "quote": "ranging from 40°F to 60°F"
         },
         "saunaF": {
           "sourceUrl": "https://thermahausdenver.com/",
-          "capturedOn": "2026-08-15",
-          "quote": "170°F Sauna — For longer, relaxing session"
+          "capturedOn": "2026-09-14",
+          "quote": "185°F - for a longer, relaxing session 200°F - the full traditional experience"
         },
         "dropIn": {
           "sourceUrl": "https://thermahausdenver.com/",
-          "capturedOn": "2026-08-15",
-          "quote": "Single Session Pass for $40"
+          "capturedOn": "2026-09-14",
+          "quote": "Drop-in Single session, $40"
         },
         "membershipMo": {
           "sourceUrl": "https://thermahausdenver.com/member-ship/",
-          "capturedOn": "2026-08-15",
-          "quote": "4 Sessions / Month $90 / month Access to Sauna +"
+          "capturedOn": "2026-09-14",
+          "quote": "4 Sessions $90 /mo"
         },
         "hours": {
           "sourceUrl": "https://thermahausdenver.com/",
-          "capturedOn": "2026-08-15",
-          "quote": "Monday - Sunday: 8:00 AM – 10:00 AM 4:00 PM – 8:00 PM"
+          "capturedOn": "2026-09-14",
+          "quote": "Monday - Sunday 8:00 - 10:00 AM · 4:00 - 8:00 PM"
         }
       },
       "hours": "Monday to Sunday, 8 AM to 10 AM and 4 PM to 8 PM",
       "website": "https://thermahausdenver.com/",
       "phone": "+1-720-772-8183",
       "featured": false,
-      "summary": "Therma Haus is a Western Red Cedar sauna and cold-plunge studio at 2520 Wewatta Way, and one of the very few Denver venues that publishes every setpoint it runs: two Finnish saunas, one at 170°F for longer sessions and one at 190°F, and three cold plunges spanning 36°F to 50°F. Sessions are $40, and it now opens seven days a week in two blocks, morning and late afternoon. Its $90 membership is a founding-member introductory rate rather than a standing price."
+      "summary": "Therma Haus is a Western Red Cedar sauna and cold-plunge studio at 2520 Wewatta Way in RiNo, and one of the very few Denver venues that publishes every setpoint it runs: two Finnish saunas, one at 185°F for longer sessions and one at 200°F, and four cold plunges ranging from 40°F to 60°F. Sessions are $40, and it opens seven days a week in two blocks, morning and late afternoon. The cheapest membership is $90 a month for four sessions."
     },
     {
       "id": "red-rock-sauna-denver-co",
@@ -8407,7 +8348,7 @@
         ]
       },
       "pricing": {
-        "note": "No price is recorded. The only figure the venue publishes is \"Plans at ROK SPAS start at $150/month\" — a floor with no tier named and no unhedged rate anywhere on the site, and the registry has no way to render a price as a floor. Drop-in sessions and class passes are described as products but are nowhere priced."
+        "note": "The studio publishes no single-visit price. Its only figure is \"Plans at ROK SPAS start at $150/month\", with no plan named. Drop-in sessions and class passes are offered but not priced on its site."
       },
       "sources": {
         "plungeF": {
@@ -8462,7 +8403,7 @@
       "name": "Perspire Sauna Studio — Cherry Hills",
       "url": "https://findsaunaplunge.com/venue/perspire-sauna-studio-cherry-hills-denver-co/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "2450 South University Boulevard STE D1",
         "city": "Denver",
@@ -8522,8 +8463,8 @@
         },
         "classPack": {
           "sourceUrl": "https://www.perspiresaunastudio.com/locations/cherry-hills",
-          "capturedOn": "2026-08-16",
-          "quote": "4 Session Pack Buy a 4 Session Pack $ 140"
+          "capturedOn": "2026-09-14",
+          "quote": "Buy a 4 Session Pack $ 140 One time payment"
         },
         "sessionMinutes": {
           "sourceUrl": "https://www.perspiresaunastudio.com/locations/cherry-hills",
@@ -9000,77 +8941,6 @@
       "summary": "iCRYO Westminster is a franchise wellness studio offering whole-body cryotherapy, infrared sauna, red light therapy, and compression therapy. An individual cryotherapy session is $25, and infrared sauna sessions run 30-60 minutes."
     },
     {
-      "id": "the-cove-sauna-and-cold-plunge-denver-co",
-      "name": "The Cove Sauna and Cold Plunge",
-      "url": "https://findsaunaplunge.com/venue/the-cove-sauna-and-cold-plunge-denver-co/",
-      "status": "community",
-      "lastVerified": "2026-08-16",
-      "address": {
-        "street": "1361 S Broadway",
-        "city": "Denver",
-        "state": "CO",
-        "zip": "80210",
-        "country": "US"
-      },
-      "city": {
-        "slug": "denver-co",
-        "name": "Denver",
-        "state": "Colorado",
-        "stateSlug": "co",
-        "url": "https://findsaunaplunge.com/co/denver-co/"
-      },
-      "geo": {
-        "lat": 39.691896,
-        "lng": -104.98755
-      },
-      "modalities": [
-        {
-          "value": "infrared_sauna",
-          "label": "Infrared Sauna"
-        },
-        {
-          "value": "cold_plunge",
-          "label": "Cold Plunge"
-        },
-        {
-          "value": "red_light",
-          "label": "Red Light Therapy"
-        }
-      ],
-      "access": "communal",
-      "pricing": {
-        "dropIn": 24,
-        "membershipMo": 69
-      },
-      "sources": {
-        "access": {
-          "sourceUrl": "https://thecovesauna.com/",
-          "capturedOn": "2026-08-16",
-          "quote": "Denver’s Best Sauna and Cold Plunge Club"
-        },
-        "hours": {
-          "sourceUrl": "https://thecovesauna.com/",
-          "capturedOn": "2026-08-16",
-          "quote": "Hours: 12pm-9pm (excl. Tues)"
-        },
-        "dropIn": {
-          "sourceUrl": "https://thecovesauna.com/",
-          "capturedOn": "2026-08-16",
-          "quote": "Tier 1 Pass ($24)"
-        },
-        "membershipMo": {
-          "sourceUrl": "https://thecovesauna.com/memberships/",
-          "capturedOn": "2026-08-16",
-          "quote": "4x / Month $69 ($17.25 a pass)"
-        }
-      },
-      "hours": "Daily 12PM-9PM, closed Tuesday",
-      "website": "https://thecovesauna.com/",
-      "phone": "+1-720-465-1636",
-      "featured": false,
-      "summary": "The Cove Sauna and Cold Plunge is a tiered-access sauna club in Denver's Baker/Overland area with multiple infrared sauna rooms, cold plunges, hot tubs, red light therapy, halotherapy, vibrational resonance therapy, and a gym. A one-hour Tier 1 pass is $24, and it's open daily except Tuesday. Membership starts at $69/month for four visits."
-    },
-    {
       "id": "sway-wellness-spa-larimer-denver-co",
       "name": "Sway Wellness Spa · Larimer",
       "url": "https://findsaunaplunge.com/venue/sway-wellness-spa-larimer-denver-co/",
@@ -9360,7 +9230,7 @@
       "name": "Bare Necessities Floating & Massage — Fire & Ice",
       "url": "https://findsaunaplunge.com/venue/bare-necessities-fire-ice-arvada-co/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "6872 Wadsworth Blvd. Unit B",
         "city": "Arvada",
@@ -9395,27 +9265,27 @@
       },
       "sources": {
         "access": {
-          "sourceUrl": "https://www.barenecessitiesfloatmassage.com/about-3",
-          "capturedOn": "2026-08-16",
+          "sourceUrl": "https://www.barenecessitiesfloatmassage.com/infraredsaunaandcoldplunge",
+          "capturedOn": "2026-09-14",
           "quote": "The Fire and Ice room contains a private infrared sauna and unlimited cold plunging."
         },
         "dropIn": {
           "sourceUrl": "https://www.barenecessitiesfloatmassage.com/sevices-pricing",
-          "capturedOn": "2026-08-16",
-          "quote": "60 mins. $40"
+          "capturedOn": "2026-09-14",
+          "quote": "Fire & Ice $40"
         },
         "sessionMinutes": {
           "sourceUrl": "https://www.barenecessitiesfloatmassage.com/sevices-pricing",
-          "capturedOn": "2026-08-16",
-          "quote": "60 mins. $40"
+          "capturedOn": "2026-09-14",
+          "quote": "60 mins. Fire & Ice"
         },
         "cancellationHours": {
-          "sourceUrl": "https://www.barenecessitiesfloatmassage.com/about-3",
-          "capturedOn": "2026-08-16",
+          "sourceUrl": "https://www.barenecessitiesfloatmassage.com/infraredsaunaandcoldplunge",
+          "capturedOn": "2026-09-14",
           "quote": "Rescheduling is allowed as long as it is arranged at least 24 hours in advance."
         }
       },
-      "website": "https://www.barenecessitiesfloatmassage.com/about-3",
+      "website": "https://www.barenecessitiesfloatmassage.com/infraredsaunaandcoldplunge",
       "phone": "+1-303-999-1920",
       "featured": false,
       "summary": "Bare Necessities Floating & Massage's Fire & Ice room is a private infrared sauna and cold plunge suite in Arvada, alongside float therapy and massage. A combined 60-minute Fire & Ice (sauna and cold plunge) session is $40, and rescheduling requires at least 24 hours' notice."
@@ -9953,77 +9823,16 @@
         }
       ],
       "access": "private_suite",
-      "temps": {
-        "saunaF": [
-          135,
-          149
-        ]
-      },
-      "pricing": {
-        "dropIn": 29,
-        "membershipMo": 20,
-        "classPack": 109,
-        "note": "Each Wellness Credit (one 30-minute session) is $29; a 60-minute session is $10 extra. The introductory visit is free with promo code 'NCT' (usable at either of the operator's two clinics). Memberships: Benefit Flex $20/mo (no sessions included; discounts each credit to $15, limit one per day), Immunity Booster $69/mo (4 credits), The Unlimited $159 — labeled '/month' but billed on a 14-day auto-renewing cycle, limit one session per day. Packs: The Boost $109 for 5 credits, The Works $199 for 10; both expire 90 days after purchase. Membership cancellation requires written notice at least 15 days before the end of the current cycle. Family plan: second member 30% off, each additional 10% off."
-      },
-      "sources": {
-        "saunaF": {
-          "sourceUrl": "https://infraredmindbody.com/faq/",
-          "capturedOn": "2026-08-01",
-          "quote": "sauna temperature (ranging from 135-149 degrees)"
-        },
-        "dropIn": {
-          "sourceUrl": "https://infraredmindbody.com/services-memberships/",
-          "capturedOn": "2026-08-01",
-          "quote": "each wellness credit is $29."
-        },
-        "membershipMo": {
-          "sourceUrl": "https://infraredmindbody.com/services-memberships/",
-          "capturedOn": "2026-08-01",
-          "quote": "$20 / month"
-        },
-        "classPack": {
-          "sourceUrl": "https://infraredmindbody.com/services-memberships/",
-          "capturedOn": "2026-08-01",
-          "quote": "Credits *expires 90 days book-now The Boost $109 5 Wellness Credits *expires"
-        },
-        "hours": {
-          "sourceUrl": "https://infraredmindbody.com/contact/",
-          "capturedOn": "2026-08-01",
-          "quote": "MONDAY⁠–FRIDAY: 10AM⁠–7PM SATURDAY: 9AM⁠–4PM SUNDAY: 12PM⁠–4PM"
-        },
-        "sessionMinutes": {
-          "sourceUrl": "https://infraredmindbody.com/faq/",
-          "capturedOn": "2026-08-01",
-          "quote": "Infrared sauna sessions are 30 minutes. For just an additional $10, you arewelcome to take an hour session as well!"
-        },
-        "access": {
-          "sourceUrl": "https://infraredmindbody.com/faq/",
-          "capturedOn": "2026-08-01",
-          "quote": "you will be guided to your own private sauna room"
-        },
-        "swimwear": {
-          "sourceUrl": "https://infraredmindbody.com/faq/",
-          "capturedOn": "2026-08-01",
-          "quote": "We recommend wearing loose, breathable clothing, or you may undress into a towel provided by us, or you may bring your own towel(s) to use."
-        },
-        "ageMin": {
-          "sourceUrl": "https://infraredmindbody.com/faq/",
-          "capturedOn": "2026-08-01",
-          "quote": "The saunas are approved for children 6 to 16 with the child using the same sauna as the parent and under the parent’s constant supervision. 17 and older can use their own sauna if preferred."
-        }
-      },
-      "hours": "Mon–Fri 10:00am–7:00pm, Sat 9:00am–4:00pm, Sun 12:00pm–4:00pm",
-      "website": "https://infraredmindbody.com/",
       "phone": "+1-817-750-4622",
       "featured": false,
-      "summary": "Infrared Mind + Body is an infrared-sauna clinic at Alliance Town Center in north Fort Worth, where each session is taken in a private room with its own far-infrared cabin whose temperature is adjustable from 135–149°F, alongside LightStim LED facials. There is no cold plunge or other contrast modality at this location. Sessions are sold as Wellness Credits at a published single-session rate, with packs and memberships discounting the per-visit price."
+      "summary": "Infrared Mind + Body was an infrared-sauna clinic at Alliance Town Center in north Fort Worth, offering private rooms with adjustable far-infrared cabins alongside LED facials, with no cold plunge or other contrast modality. Its website went offline in late August 2026 and the domain now serves unrelated content, so no current price, temperature or opening hours can be confirmed from any page the studio publishes; the facts previously listed here have been withdrawn until a public source exists again."
     },
     {
       "id": "perspire-sauna-studio-fw-waterside-fort-worth-tx",
       "name": "Perspire Sauna Studio — FW Waterside",
       "url": "https://findsaunaplunge.com/venue/perspire-sauna-studio-fw-waterside-fort-worth-tx/",
       "status": "community",
-      "lastVerified": "2026-08-01",
+      "lastVerified": "2026-09-14",
       "brand": "perspire-sauna-studio",
       "address": {
         "street": "3700 Vision Drive Ste 112",
@@ -10079,8 +9888,8 @@
         },
         "classPack": {
           "sourceUrl": "https://www.perspiresaunastudio.com/locations/fw-waterside",
-          "capturedOn": "2026-08-01",
-          "quote": "4 Session Pack Buy a 4 Session Pack $ 140"
+          "capturedOn": "2026-09-14",
+          "quote": "Buy a 4 Session Pack $ 140 One time payment"
         },
         "hours": {
           "sourceUrl": "https://www.perspiresaunastudio.com/locations/fw-waterside",
@@ -10096,6 +9905,11 @@
           "sourceUrl": "https://www.perspiresaunastudio.com/locations/fw-waterside",
           "capturedOn": "2026-08-01",
           "quote": "You can opt for swimwear, lightweight shorts, and a t-shirt and undress to your comfort level."
+        },
+        "sessionMinutes": {
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/fw-waterside",
+          "capturedOn": "2026-09-14",
+          "quote": "Guests are welcome to sauna for up to 40 minutes."
         }
       },
       "hours": "Mon–Fri 7:00am–8:00pm, Sat–Sun 8:00am–6:00pm",
@@ -10109,7 +9923,7 @@
       "name": "Restore + Revive Wellness Center",
       "url": "https://findsaunaplunge.com/venue/restore-revive-wellness-center-fort-worth-tx/",
       "status": "community",
-      "lastVerified": "2026-08-15",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "4927 Byers Avenue",
         "city": "Fort Worth",
@@ -10161,49 +9975,48 @@
       },
       "sources": {
         "plungeF": {
-          "sourceUrl": "https://www.restoreandrevivefw.com/blogarchive/cold-plunge",
-          "capturedOn": "2026-08-15",
+          "sourceUrl": "https://www.restoreandrevive.com/blog/cold-plunge",
+          "capturedOn": "2026-09-24",
           "quote": "HOW COLD IS THE COLD PLUNGE? 47° to 49° F"
         },
         "dropIn": {
-          "sourceUrl": "https://www.restoreandrevivefw.com/blogarchive/cold-plunge",
-          "capturedOn": "2026-08-15",
+          "sourceUrl": "https://www.restoreandrevive.com/blog/cold-plunge",
+          "capturedOn": "2026-09-24",
           "quote": "Single Cold Plunge Session $25"
         },
         "membershipMo": {
-          "sourceUrl": "https://www.restoreandrevivefw.com/memberships",
-          "capturedOn": "2026-08-01",
-          "quote": "revive membership $149/montH This fan-favorite membership offers members-only pricing for drips, boosters, and shots."
+          "sourceUrl": "https://www.restoreandrevive.com/memberships",
+          "capturedOn": "2026-09-24",
+          "quote": "RevIVe Membership $149 / month This fan-favorite membership offers members-only pricing for drips and shots."
         },
         "classPack": {
-          "sourceUrl": "https://www.restoreandrevivefw.com/blogarchive/cold-plunge",
-          "capturedOn": "2026-08-15",
+          "sourceUrl": "https://www.restoreandrevive.com/blog/cold-plunge",
+          "capturedOn": "2026-09-24",
           "quote": "8 pack $160 ($20/session) 4 pack $90 ($22.50/session)"
         },
         "hours": {
-          "sourceUrl": "https://www.restoreandrevivefw.com/contact-2",
-          "capturedOn": "2026-08-01",
-          "quote": "WELLNESS CENTER HOURS Monday – Wednesday: 9am-5pm Thursday: 9am-7pm* Friday & Saturday : 9am-2pm Sunday: Closed"
+          "sourceUrl": "https://www.restoreandrevive.com/contact",
+          "capturedOn": "2026-09-24",
+          "quote": "For Wellness Therapies: Monday-Wednesday: 9:00am - 5:00pm Thursday: 9:00am - 7:00pm (Open Late) Friday-Saturday: 9:00am - 2:00pm Sunday: Closed"
         },
         "sessionMinutes": {
-          "sourceUrl": "https://www.restoreandrevivefw.com/infraredsauna",
-          "capturedOn": "2026-08-01",
-          "quote": "Sauna sessions vary from 30-45 minutes dependent upon your choice of specialty."
+          "sourceUrl": "https://www.restoreandrevive.com/services/infrared-sauna",
+          "capturedOn": "2026-09-24",
+          "quote": "Sessions run 30-45 minutes depending on your chosen program."
         },
         "cancellationHours": {
-          "sourceUrl": "https://www.restoreandrevivefw.com/contact-2",
-          "capturedOn": "2026-08-01",
-          "quote": "Cancellation Policy — Any cancellation or reschedule made less than 24-hours of a scheduled service will result in a cancellation fee. The fee will be equal to 50% of the reserved service."
+          "sourceUrl": "https://www.restoreandrevive.com/locations/fort-worth",
+          "capturedOn": "2026-09-24",
+          "quote": "Any cancellation or reschedule made less than 24-hours of a scheduled service will result in a cancellation fee. The fee will be equal to 50% of the reserved service."
         },
         "coedNote": {
-          "sourceUrl": "https://www.restoreandrevivefw.com/faq",
-          "capturedOn": "2026-08-01",
-          "quote": "ARE THE SAUNAS CO-ED? Yes, you may choose to use the sauna with your significant other or a pal. Please note, you will each be charged for the sauna session."
+          "sourceUrl": "https://www.restoreandrevive.com/services/infrared-sauna",
+          "capturedOn": "2026-09-24",
+          "quote": "Yes, our saunas comfortably accommodate two people. It's a popular option for couples or friends looking for a shared wellness experience. Please note that they will also be charged for the service."
         }
       },
       "hours": "Mon–Wed 9:00am–5:00pm, Thu 9:00am–7:00pm, Sun Closed. Fri–Sat not listed: the venue’s own pages disagree.",
-      "website": "https://www.restoreandrevivefw.com/",
-      "bookingUrl": "https://www.restoreandrevivefw.com/book-now",
+      "website": "https://www.restoreandrevive.com/",
       "phone": "+1-817-720-6220",
       "featured": false,
       "summary": "Restore + Revive is an appointment-based integrative wellness center on Byers Avenue in Fort Worth's west side, where cold plunge, infrared sauna and a red light/PEMF “Revive Room” sit alongside IV therapy, functional medicine and other clinical services. The cold plunge is run at a published 47–49°F; no sauna operating temperature is posted, and services are booked and priced individually rather than as a bathhouse day pass."
@@ -11315,7 +11128,7 @@
       "name": "Gangnam Spa",
       "url": "https://findsaunaplunge.com/venue/gangnam-spa-houston-tx/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "4055 Highway 6 North",
         "city": "Houston",
@@ -11351,17 +11164,17 @@
           "quote": "Weekday Admission $ 48"
         },
         "hours": {
-          "sourceUrl": "https://gangnamspa.org/contact",
-          "capturedOn": "2026-08-16",
-          "quote": "09:00 am – 10:00 pm"
+          "sourceUrl": "https://gangnamspa.org/",
+          "capturedOn": "2026-09-14",
+          "quote": "\"Sunday\"],\"opens\":\"09:00\",\"closes\":\"22:00\"},{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Saturday\"],\"opens\":\"09:00\",\"closes\":\"23:00\"}"
         }
       },
-      "hours": "Daily 9:00am-10:00pm",
+      "hours": "Sun-Fri 9:00am-10:00pm; Sat 9:00am-11:00pm",
       "website": "https://gangnamspa.org/",
       "bookingUrl": "https://gangnamspa.org/admission-and-gift-card",
       "phone": "+1-281-859-9888",
       "featured": false,
-      "summary": "Gangnam Spa is a 30,000-square-foot Korean jjimjilbang in far west Houston, built around traditional wood-fired Bul-Ga-Ma sauna rooms plus gender-separated bathing areas and co-ed relaxation lounges. Weekday admission is $48 and grants all-day access with no reservation needed; the spa is open daily from 9:00am to 10:00pm. Guests must be 18 or older, and the bathing area itself is clothing-optional (uniforms are worn only in the co-ed lounge areas)."
+      "summary": "Gangnam Spa is a 30,000-square-foot Korean jjimjilbang in far west Houston, built around traditional wood-fired Bul-Ga-Ma sauna rooms plus gender-separated bathing areas and co-ed relaxation lounges. Weekday admission is $48 and grants all-day access with no reservation needed; the spa is open 9:00am to 10:00pm Sunday through Friday and until 11:00pm on Saturday. Guests must be 18 or older, and the bathing area itself is clothing-optional (uniforms are worn only in the co-ed lounge areas)."
     },
     {
       "id": "spa-world-houston-katy-tx",
@@ -11874,7 +11687,7 @@
       "name": "Arctic Healing Cryo",
       "url": "https://findsaunaplunge.com/venue/arctic-healing-cryo-houston-tx/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "6415 San Felipe St, Suite Q1",
         "city": "Houston",
@@ -11907,16 +11720,16 @@
       "sources": {
         "hours": {
           "sourceUrl": "https://ahcryo.com/",
-          "capturedOn": "2026-08-16",
-          "quote": "Mon–Fri: 10:00 AM – 7:00 PM"
+          "capturedOn": "2026-09-14",
+          "quote": "Mon-Fri: 10:00 AM - 6:00 PM Saturday: 10:00 AM - 3:00 PM Sunday: Closed"
         }
       },
-      "hours": "Mon-Fri 10:00am-7:00pm; Sat 10:00am-3:00pm; Sun Closed",
+      "hours": "Mon-Fri 10:00am-6:00pm; Sat 10:00am-3:00pm; Sun Closed",
       "website": "https://ahcryo.com/",
       "bookingUrl": "https://ahcryo.com/",
       "phone": "+1-713-568-4801",
       "featured": false,
-      "summary": "Arctic Healing Cryo is a boutique wellness studio in Houston's Galleria/Tanglewood area, offering whole-body cryotherapy alongside red and near-infrared light therapy (Celluma and NovoTHOR beds), body contouring and massage. It is open Monday-Friday 10am-7pm and Saturday 10am-3pm, and closed Sunday."
+      "summary": "Arctic Healing Cryo is a boutique wellness studio in Houston's Galleria/Tanglewood area, offering whole-body cryotherapy alongside red and near-infrared light therapy (Celluma and NovoTHOR beds), body contouring and massage. It is open Monday-Friday 10am-6pm and Saturday 10am-3pm, and closed Sunday."
     },
     {
       "id": "restore-hyper-wellness-sugar-land-tx",
@@ -13100,7 +12913,7 @@
       "name": "Elevated Studio",
       "url": "https://findsaunaplunge.com/venue/elevated-studio-henderson-las-vegas-nv/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-02",
       "address": {
         "street": "4500 E Sunset Rd #4",
         "city": "Henderson",
@@ -13141,13 +12954,13 @@
       "sources": {
         "dropIn": {
           "sourceUrl": "https://elevatedlasvegas.com/pricing/",
-          "capturedOn": "2026-08-16",
+          "capturedOn": "2026-09-02",
           "quote": "Single Sessions 40 Minute Session $39 40 Minute Sauna for 2 $69 Cancer Patients"
         },
         "membershipMo": {
           "sourceUrl": "https://elevatedlasvegas.com/pricing/",
-          "capturedOn": "2026-08-16",
-          "quote": "anytime with 30 day notice Unlimited $159 mo Month to Month Couples Unlimited"
+          "capturedOn": "2026-09-02",
+          "quote": "Unlimited $159 mo Month to Month Membership"
         }
       },
       "website": "https://elevatedlasvegas.com/",
@@ -14144,7 +13957,7 @@
       "name": "IcePass at Blue Republic CrossFit",
       "url": "https://findsaunaplunge.com/venue/icepass-blue-republic-crossfit-los-angeles-ca/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-27",
       "address": {
         "street": "3328 Pico Boulevard",
         "city": "Santa Monica",
@@ -14174,20 +13987,47 @@
         }
       ],
       "access": "unpublished",
+      "temps": {
+        "plungeF": [
+          37,
+          44
+        ],
+        "saunaF": [
+          200,
+          200
+        ]
+      },
       "pricing": {
-        "dayPass": 50,
-        "membershipMo": 299
+        "dayPass": 44,
+        "membershipMo": 299,
+        "intro": 25,
+        "note": "The first two-hour session is $25. The older pricing page at icepassla.com/pricing/ still shows a $50 day pass; the pricing page linked from the home page lists $44."
       },
       "sources": {
         "dayPass": {
-          "sourceUrl": "https://icepassla.com/pricing/",
-          "capturedOn": "2026-08-16",
-          "quote": "Day Pass - (1 Visit) $50"
+          "sourceUrl": "https://icepassla.com/pricing-new-2",
+          "capturedOn": "2026-09-27",
+          "quote": "Day Pass (All Locations) $44"
         },
         "membershipMo": {
-          "sourceUrl": "https://icepassla.com/pricing/",
-          "capturedOn": "2026-08-16",
-          "quote": "Month to Month Membership - (No Commitment) $299"
+          "sourceUrl": "https://icepassla.com/pricing-new-2",
+          "capturedOn": "2026-09-27",
+          "quote": "Monthly $299 per month"
+        },
+        "intro": {
+          "sourceUrl": "https://icepassla.com/pricing-new-2",
+          "capturedOn": "2026-09-27",
+          "quote": "Book Your First 2 Hour Session for $25"
+        },
+        "plungeF": {
+          "sourceUrl": "https://icepassla.com/",
+          "capturedOn": "2026-09-27",
+          "quote": "Commercial-grade cold plunges (37-44°F)"
+        },
+        "saunaF": {
+          "sourceUrl": "https://icepassla.com/",
+          "capturedOn": "2026-09-27",
+          "quote": "We feature 200° Finnish saunas"
         }
       },
       "website": "https://icepassla.com/locations/blue-republic-crossfit/",
@@ -14201,7 +14041,7 @@
       "name": "IcePass at Paradiso CrossFit",
       "url": "https://findsaunaplunge.com/venue/icepass-paradiso-crossfit-los-angeles-ca/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-27",
       "address": {
         "street": "711 Hampton Dr",
         "city": "Venice",
@@ -14231,20 +14071,47 @@
         }
       ],
       "access": "unpublished",
+      "temps": {
+        "plungeF": [
+          37,
+          44
+        ],
+        "saunaF": [
+          200,
+          200
+        ]
+      },
       "pricing": {
-        "dayPass": 50,
-        "membershipMo": 299
+        "dayPass": 44,
+        "membershipMo": 299,
+        "intro": 25,
+        "note": "The first two-hour session is $25. The older pricing page at icepassla.com/pricing/ still shows a $50 day pass; the pricing page linked from the home page lists $44."
       },
       "sources": {
         "dayPass": {
-          "sourceUrl": "https://icepassla.com/pricing/",
-          "capturedOn": "2026-08-16",
-          "quote": "Day Pass - (1 Visit) $50"
+          "sourceUrl": "https://icepassla.com/pricing-new-2",
+          "capturedOn": "2026-09-27",
+          "quote": "Day Pass (All Locations) $44"
         },
         "membershipMo": {
-          "sourceUrl": "https://icepassla.com/pricing/",
-          "capturedOn": "2026-08-16",
-          "quote": "Month to Month Membership - (No Commitment) $299"
+          "sourceUrl": "https://icepassla.com/pricing-new-2",
+          "capturedOn": "2026-09-27",
+          "quote": "Monthly $299 per month"
+        },
+        "intro": {
+          "sourceUrl": "https://icepassla.com/pricing-new-2",
+          "capturedOn": "2026-09-27",
+          "quote": "Book Your First 2 Hour Session for $25"
+        },
+        "plungeF": {
+          "sourceUrl": "https://icepassla.com/",
+          "capturedOn": "2026-09-27",
+          "quote": "Commercial-grade cold plunges (37-44°F)"
+        },
+        "saunaF": {
+          "sourceUrl": "https://icepassla.com/",
+          "capturedOn": "2026-09-27",
+          "quote": "We feature 200° Finnish saunas"
         }
       },
       "website": "https://icepassla.com/locations/paradiso-crossfit/",
@@ -14258,7 +14125,7 @@
       "name": "IcePass at Saba",
       "url": "https://findsaunaplunge.com/venue/icepass-saba-los-angeles-ca/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-27",
       "address": {
         "street": "12912 Venice Blvd",
         "city": "Los Angeles",
@@ -14288,20 +14155,47 @@
         }
       ],
       "access": "unpublished",
+      "temps": {
+        "plungeF": [
+          37,
+          44
+        ],
+        "saunaF": [
+          200,
+          200
+        ]
+      },
       "pricing": {
-        "dayPass": 50,
-        "membershipMo": 299
+        "dayPass": 44,
+        "membershipMo": 299,
+        "intro": 25,
+        "note": "The first two-hour session is $25. The older pricing page at icepassla.com/pricing/ still shows a $50 day pass; the pricing page linked from the home page lists $44."
       },
       "sources": {
         "dayPass": {
-          "sourceUrl": "https://icepassla.com/pricing/",
-          "capturedOn": "2026-08-16",
-          "quote": "Day Pass - (1 Visit) $50"
+          "sourceUrl": "https://icepassla.com/pricing-new-2",
+          "capturedOn": "2026-09-27",
+          "quote": "Day Pass (All Locations) $44"
         },
         "membershipMo": {
-          "sourceUrl": "https://icepassla.com/pricing/",
-          "capturedOn": "2026-08-16",
-          "quote": "Month to Month Membership - (No Commitment) $299"
+          "sourceUrl": "https://icepassla.com/pricing-new-2",
+          "capturedOn": "2026-09-27",
+          "quote": "Monthly $299 per month"
+        },
+        "intro": {
+          "sourceUrl": "https://icepassla.com/pricing-new-2",
+          "capturedOn": "2026-09-27",
+          "quote": "Book Your First 2 Hour Session for $25"
+        },
+        "plungeF": {
+          "sourceUrl": "https://icepassla.com/",
+          "capturedOn": "2026-09-27",
+          "quote": "Commercial-grade cold plunges (37-44°F)"
+        },
+        "saunaF": {
+          "sourceUrl": "https://icepassla.com/",
+          "capturedOn": "2026-09-27",
+          "quote": "We feature 200° Finnish saunas"
         }
       },
       "website": "https://icepassla.com/locations/saba/",
@@ -14315,7 +14209,7 @@
       "name": "IcePass at Sweat60",
       "url": "https://findsaunaplunge.com/venue/icepass-sweat60-los-angeles-ca/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-27",
       "address": {
         "street": "2323 Lincoln Blvd",
         "city": "Santa Monica",
@@ -14345,20 +14239,47 @@
         }
       ],
       "access": "unpublished",
+      "temps": {
+        "plungeF": [
+          37,
+          44
+        ],
+        "saunaF": [
+          200,
+          200
+        ]
+      },
       "pricing": {
-        "dayPass": 50,
-        "membershipMo": 299
+        "dayPass": 44,
+        "membershipMo": 299,
+        "intro": 25,
+        "note": "The first two-hour session is $25. The older pricing page at icepassla.com/pricing/ still shows a $50 day pass; the pricing page linked from the home page lists $44."
       },
       "sources": {
         "dayPass": {
-          "sourceUrl": "https://icepassla.com/pricing/",
-          "capturedOn": "2026-08-16",
-          "quote": "Day Pass - (1 Visit) $50"
+          "sourceUrl": "https://icepassla.com/pricing-new-2",
+          "capturedOn": "2026-09-27",
+          "quote": "Day Pass (All Locations) $44"
         },
         "membershipMo": {
-          "sourceUrl": "https://icepassla.com/pricing/",
-          "capturedOn": "2026-08-16",
-          "quote": "Month to Month Membership - (No Commitment) $299"
+          "sourceUrl": "https://icepassla.com/pricing-new-2",
+          "capturedOn": "2026-09-27",
+          "quote": "Monthly $299 per month"
+        },
+        "intro": {
+          "sourceUrl": "https://icepassla.com/pricing-new-2",
+          "capturedOn": "2026-09-27",
+          "quote": "Book Your First 2 Hour Session for $25"
+        },
+        "plungeF": {
+          "sourceUrl": "https://icepassla.com/",
+          "capturedOn": "2026-09-27",
+          "quote": "Commercial-grade cold plunges (37-44°F)"
+        },
+        "saunaF": {
+          "sourceUrl": "https://icepassla.com/",
+          "capturedOn": "2026-09-27",
+          "quote": "We feature 200° Finnish saunas"
         }
       },
       "website": "https://icepassla.com/locations/sweat60/",
@@ -14559,23 +14480,10 @@
         }
       ],
       "access": "private_suite",
-      "sources": {
-        "access": {
-          "sourceUrl": "https://www.resetonthird.com/",
-          "capturedOn": "2026-08-16",
-          "quote": "RESET is a private room with Infrared Sauna, Cold Plunge, Shower, and towels all in one room."
-        },
-        "cancellationHours": {
-          "sourceUrl": "https://www.resetonthird.com/faqs",
-          "capturedOn": "2026-08-16",
-          "quote": "Please note we do require 28 days notice."
-        }
-      },
-      "website": "https://www.resetonthird.com/",
-      "bookingUrl": "https://www.resetonthird.com/memberships",
+      "sources": {},
       "phone": "+1-323-782-1045",
       "featured": false,
-      "summary": "RESET on Third is a contrast therapy studio on West 3rd Street in Los Angeles built around a single private room containing an infrared sauna, cold plunge, shower and towels. Sessions are booked through a Vagaro widget that does not expose plain-text pricing, and monthly membership sessions do not roll over month to month. Membership cancellations require 28 days' notice via the studio's own cancellation form."
+      "summary": "RESET on Third is a contrast therapy studio on West 3rd Street in Los Angeles built around a single private room containing an infrared sauna, cold plunge, shower and towels. Sessions are booked through a Vagaro widget that does not expose plain-text pricing, and monthly membership sessions do not roll over month to month. Membership cancellations require 28 days' notice via the studio's own cancellation form. Its website has been parked since early September 2026 and could not be re-checked; its Instagram remains active."
     },
     {
       "id": "quantum-wellness-spa-los-angeles-ca",
@@ -15760,7 +15668,7 @@
       "name": "ELIXR Wellness Lounge",
       "url": "https://findsaunaplunge.com/venue/elixr-wellness-lounge-miami-fl/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "175 SW 7th St, Suite 1102",
         "city": "Miami",
@@ -15791,20 +15699,20 @@
       ],
       "access": "unpublished",
       "pricing": {
-        "dropIn": 25,
-        "classPack": 200,
+        "dropIn": 29,
+        "classPack": 199,
         "membershipMo": 99
       },
       "sources": {
         "dropIn": {
           "sourceUrl": "https://www.elixrme.com/cold-plunge",
-          "capturedOn": "2026-08-16",
-          "quote": "1 Session: $25"
+          "capturedOn": "2026-09-14",
+          "quote": "1 Session: $29"
         },
         "classPack": {
           "sourceUrl": "https://www.elixrme.com/cold-plunge",
-          "capturedOn": "2026-08-16",
-          "quote": "10 Sessions: $200 (valid for 1 year)"
+          "capturedOn": "2026-09-14",
+          "quote": "10 pack: $199 (valid for 1 year)"
         },
         "membershipMo": {
           "sourceUrl": "https://www.elixrme.com/cold-plunge",
@@ -15815,7 +15723,7 @@
       "website": "https://www.elixrme.com/cold-plunge",
       "bookingUrl": "https://www.elixrme.com/cold-plunge",
       "featured": false,
-      "summary": "ELIXR Wellness Lounge is a wellness studio near Brickell offering appointment-based cold plunge sessions alongside infrared sauna and IV therapy. A single cold plunge session is $25, a 10-session pack is $200, and a monthly membership is $99."
+      "summary": "ELIXR Wellness Lounge is a wellness studio near Brickell offering appointment-based cold plunge sessions alongside infrared sauna and IV therapy. A single cold plunge session is $29, a 10-session pack is $199, and a monthly membership is $99."
     },
     {
       "id": "hotworx-north-miami-beach-miami-fl",
@@ -16298,7 +16206,7 @@
       "name": "Pause Studio - Fort Lauderdale",
       "url": "https://findsaunaplunge.com/venue/pause-studio-fort-lauderdale-miami-fl/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "2071 E. Oakland Park Blvd",
         "city": "Fort Lauderdale",
@@ -16329,7 +16237,7 @@
       ],
       "access": "private_suite",
       "pricing": {
-        "membershipMo": 89
+        "membershipMo": 159
       },
       "sources": {
         "access": {
@@ -16339,15 +16247,15 @@
         },
         "membershipMo": {
           "sourceUrl": "https://pausestudio.com/locations/fort-lauderdale",
-          "capturedOn": "2026-08-16",
-          "quote": "Base 35% Savings $89 | 6 Credits per month"
+          "capturedOn": "2026-09-24",
+          "quote": "Core 40% Savings $159 | 12 Credits per month"
         }
       },
       "website": "https://pausestudio.com/locations/fort-lauderdale",
       "bookingUrl": "https://pausestudio.com/fort-lauderdale/contrast-therapy",
       "phone": "+1-754-704-6964",
       "featured": false,
-      "summary": "Pause Studio's Fort Lauderdale location offers a private contrast therapy suite combining infrared sauna and cold plunge, alongside float, cryotherapy, and compression services. Its lowest membership tier (Base) is $89/month for 6 credits, and sessions take place in a dedicated private suite rather than a shared space."
+      "summary": "Pause Studio's Fort Lauderdale location offers a private contrast therapy suite combining infrared sauna and cold plunge, alongside float, cryotherapy, and compression services. Its lowest membership tier (Core) is $159/month for 12 credits, and sessions take place in a dedicated private suite rather than a shared space."
     },
     {
       "id": "the-space-fort-lauderdale-miami-fl",
@@ -17079,7 +16987,7 @@
       "name": "Forest Floor Wellness",
       "url": "https://findsaunaplunge.com/venue/forest-floor-wellness-burnsville-mn/",
       "status": "community",
-      "lastVerified": "2026-08-02",
+      "lastVerified": "2026-09-02",
       "address": {
         "street": "14573 Grand Ave",
         "city": "Burnsville",
@@ -17118,41 +17026,41 @@
       "sources": {
         "saunaF": {
           "sourceUrl": "https://forestfloorwellness.com/faq",
-          "capturedOn": "2026-08-02",
+          "capturedOn": "2026-09-02",
           "quote": "We aim to keep the hot room at 180°F"
         },
         "dropIn": {
           "sourceUrl": "https://forestfloorwellness.com/sauna",
-          "capturedOn": "2026-08-02",
+          "capturedOn": "2026-09-02",
           "quote": "One person … $40"
         },
         "hours": {
-          "sourceUrl": "https://saunastrong.com/",
-          "capturedOn": "2026-08-02",
-          "quote": "\"opens\":\"05:30:00\",\"closes\":\"00:00:00\",\"dayOfWeek\":\"https:\\/\\/schema.org\\/Monday\""
+          "sourceUrl": "https://forestfloorwellness.com/",
+          "capturedOn": "2026-09-02",
+          "quote": "Sunday Closed Monday 12:30pm - 8:30pm Tuesday Closed Wednesday 12:30pm - 8:30pm Thursday 3:00pm - 8:30pm Friday 3:00pm - 8:30pm Saturday 11:30am - 5:00pm (May 2 - September 26)"
         },
         "sessionMinutes": {
           "sourceUrl": "https://forestfloorwellness.com/sauna",
-          "capturedOn": "2026-08-02",
+          "capturedOn": "2026-09-02",
           "quote": "75 minute private sessions"
         },
         "swimwear": {
           "sourceUrl": "https://forestfloorwellness.com/faq",
-          "capturedOn": "2026-08-02",
+          "capturedOn": "2026-09-02",
           "quote": "Swim suit, a towel to sit on, a towel to dry off with, flip flops or sandals, and a water bottle."
         },
         "reservation": {
           "sourceUrl": "https://forestfloorwellness.com/",
-          "capturedOn": "2026-08-02",
+          "capturedOn": "2026-09-02",
           "quote": "By appointment only"
         },
         "cancellationHours": {
           "sourceUrl": "https://forestfloorwellness.com/faq",
-          "capturedOn": "2026-08-02",
+          "capturedOn": "2026-09-02",
           "quote": "A 24 hour notice to cancel or reschedule an appointment or you will be subject to a charge equal to 50% of your service"
         }
       },
-      "hours": "Sun closed; Mon 12:30pm–8:30pm (see venue for the rest of the week)",
+      "hours": "Sun closed, Mon 12:30pm–8:30pm, Tue closed, Wed 12:30pm–8:30pm, Thu 3:00pm–8:30pm, Fri 3:00pm–8:30pm, Sat 11:30am–5:00pm (May 2–Sep 26)",
       "website": "https://forestfloorwellness.com/",
       "bookingUrl": "https://forestfloorwellness.com/sauna#saunabooking",
       "phone": "+1-763-388-1717",
@@ -17449,7 +17357,7 @@
       "name": "Sauna Camp",
       "url": "https://findsaunaplunge.com/venue/sauna-camp-independence-mn/",
       "status": "community",
-      "lastVerified": "2026-08-06",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "3425 Ihduhapi Trail",
         "city": "Independence",
@@ -17497,8 +17405,8 @@
         },
         "dropIn": {
           "sourceUrl": "https://www.saunacamps.com/passes",
-          "capturedOn": "2026-08-06",
-          "quote": "$55 $199 $359 $499 $199"
+          "capturedOn": "2026-09-24",
+          "quote": "CLICK TO BUY $55 From $199 From $199"
         },
         "sessionMinutes": {
           "sourceUrl": "https://www.saunacamps.com/passes",
@@ -17517,8 +17425,8 @@
         },
         "ageMin": {
           "sourceUrl": "https://www.saunacamps.com/post/questions",
-          "capturedOn": "2026-08-02",
-          "quote": "Kids over the age of 6 are welcome at Sauna Camp."
+          "capturedOn": "2026-09-24",
+          "quote": "Kids over the age of 7 are welcome at Sauna Camp."
         },
         "reservation": {
           "sourceUrl": "https://www.saunacamps.com/post/coming-from-out-of-town-what-to-expect-from-a-sauna-camp-experience",
@@ -17647,7 +17555,7 @@
       "name": "The PARC",
       "url": "https://findsaunaplunge.com/venue/the-parc-blaine-mn/",
       "status": "community",
-      "lastVerified": "2026-08-02",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "2180 105th Ave NE, Suite 200",
         "city": "Blaine",
@@ -17685,7 +17593,7 @@
         "dropIn": 39.99,
         "classPack": 250,
         "intro": 0,
-        "note": "A single Wellness Experience is $39.99 and a ten-pack $250. The first two hours are free for a new guest with no card required. Three membership tiers are named — Sprint, Sauna & Cold Plunge, and Group Fitness Unlimited — but none carries a published price."
+        "note": "A single Wellness Experience is $39.99 and a ten-pack $250. The first two hours are free for a first-time guest. Three membership tiers are named — Sprint, Sauna & Cold Plunge, and Group Fitness Unlimited — but none carries a published price."
       },
       "sources": {
         "dropIn": {
@@ -17699,9 +17607,9 @@
           "quote": "10 Pack Recovery Pass $250"
         },
         "intro": {
-          "sourceUrl": "https://www.theparcmn.com/",
-          "capturedOn": "2026-08-02",
-          "quote": "Your first two hours are free."
+          "sourceUrl": "https://www.theparcmn.com/store/",
+          "capturedOn": "2026-09-14",
+          "quote": "The 2-Hour Free Pass is reserved for first-time guests"
         },
         "hours": {
           "sourceUrl": "https://www.theparcmn.com/contact/",
@@ -18056,7 +17964,7 @@
       "name": "beem Light Sauna — Woodbury",
       "url": "https://findsaunaplunge.com/venue/beem-light-sauna-woodbury-minneapolis-mn/",
       "status": "community",
-      "lastVerified": "2026-08-15",
+      "lastVerified": "2026-09-14",
       "brand": "beem-light-sauna",
       "address": {
         "street": "7030 Valley Creek Plaza Suite 102",
@@ -18089,13 +17997,14 @@
       "access": "unpublished",
       "pricing": {
         "membershipMo": 129,
-        "classPack": 389
+        "classPack": 229,
+        "note": "Packages: 5 sessions for $229, 10 for $389."
       },
       "sources": {
         "hours": {
           "sourceUrl": "https://www.beemlightsauna.com/location/woodbury",
-          "capturedOn": "2026-08-15",
-          "quote": "Monday 8am - 8pm Tuesday 8am - 8pm Wednesday 8am - 8pm Thursday 8am - 8pm Friday 8am - 5pm Saturday 9am - 3pm Sunday 11am - 5pm"
+          "capturedOn": "2026-09-14",
+          "quote": "Monday 8am - 7pm Tuesday 8am - 7pm Wednesday 8am - 7pm Thursday 8am - 7pm Friday 8am - 5pm Saturday 8am - 3pm Sunday 11am - 4pm"
         },
         "membershipMo": {
           "sourceUrl": "https://www.beemlightsauna.com/location/woodbury",
@@ -18104,15 +18013,15 @@
         },
         "classPack": {
           "sourceUrl": "https://www.beemlightsauna.com/location/woodbury",
-          "capturedOn": "2026-08-15",
-          "quote": "10 Session Package $389 Sessions At Your Pace Buy Now"
+          "capturedOn": "2026-09-14",
+          "quote": "5 Session Package $229"
         }
       },
-      "hours": "Mon-Thu 8AM-8PM, Fri 8AM-5PM, Sat 9AM-3PM, Sun 11AM-5PM",
+      "hours": "Mon-Thu 8AM-7PM, Fri 8AM-5PM, Sat 8AM-3PM, Sun 11AM-4PM",
       "website": "https://www.beemlightsauna.com/location/woodbury",
       "phone": "+1-612-394-5300",
       "featured": false,
-      "summary": "beem Light Sauna's Woodbury studio is a franchise infrared-and-red-light location, sold only as memberships or packages rather than a published single-visit rate. The cheapest membership is $129/month for 4 sessions, and the smallest one-time package is a 10-session pack for $389. It is open every day of the week; access type and operating temperature are not published on its own page."
+      "summary": "beem Light Sauna's Woodbury studio is a franchise infrared-and-red-light location, sold only as memberships or packages rather than a published single-visit rate. The cheapest membership is $129/month for 4 sessions, and the smallest one-time package is a 5-session pack for $229. It is open every day of the week; access type and operating temperature are not published on its own page."
     },
     {
       "id": "beem-light-sauna-st-louis-park-minneapolis-mn",
@@ -18443,7 +18352,7 @@
       "name": "Restore Hyper Wellness — Maple Grove",
       "url": "https://findsaunaplunge.com/venue/restore-hyper-wellness-maple-grove-minneapolis-mn/",
       "status": "community",
-      "lastVerified": "2026-08-15",
+      "lastVerified": "2026-09-02",
       "brand": "restore-hyper-wellness",
       "address": {
         "street": "12215 Elm Creek Blvd, #B30",
@@ -18488,16 +18397,16 @@
       "sources": {
         "hours": {
           "sourceUrl": "https://www.restore.com/locations/mn-maple-grove-mn003",
-          "capturedOn": "2026-08-15",
-          "quote": "Monday-Thursday: 10AM-7PM Friday: 10AM-6PM Saturday: 9AM-5PM Sunday: 10AM-4PM"
+          "capturedOn": "2026-09-02",
+          "quote": "Monday-Friday: 10AM-7PM Saturday: 9AM-5PM Sunday: 11AM-5PM"
         },
         "membershipMo": {
           "sourceUrl": "https://www.restore.com/locations/mn-maple-grove-mn003",
-          "capturedOn": "2026-08-15",
+          "capturedOn": "2026-09-02",
           "quote": "Level Up Best Value $190 /month A $360 value!"
         }
       },
-      "hours": "Mon-Thu 10AM-7PM, Fri 10AM-6PM, Sat 9AM-5PM, Sun 10AM-4PM",
+      "hours": "Mon-Fri 10AM-7PM, Sat 9AM-5PM, Sun 11AM-5PM",
       "website": "https://www.restore.com/locations/mn-maple-grove-mn003",
       "bookingUrl": "https://www.restore.com/locations/mn-maple-grove-mn003",
       "phone": "+1-763-331-0869",
@@ -18509,7 +18418,7 @@
       "name": "Perspire Sauna Studio — Maple Grove",
       "url": "https://findsaunaplunge.com/venue/perspire-sauna-studio-maple-grove-minneapolis-mn/",
       "status": "community",
-      "lastVerified": "2026-08-15",
+      "lastVerified": "2026-09-14",
       "brand": "perspire-sauna-studio",
       "address": {
         "street": "7808 Main Street",
@@ -18543,7 +18452,8 @@
       "pricing": {
         "dropIn": 40,
         "membershipMo": 89,
-        "classPack": 130
+        "classPack": 130,
+        "intro": 30
       },
       "sources": {
         "access": {
@@ -18563,10 +18473,26 @@
         },
         "classPack": {
           "sourceUrl": "https://www.perspiresaunastudio.com/locations/maple-grove",
-          "capturedOn": "2026-08-15",
-          "quote": "4 Session Pack Buy a 4 Session Pack $ 130 One time payment"
+          "capturedOn": "2026-09-14",
+          "quote": "Buy a 4 Session Pack $ 130 One time payment"
+        },
+        "intro": {
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/maple-grove",
+          "capturedOn": "2026-09-14",
+          "quote": "Book $ 30 Intro Session"
+        },
+        "hours": {
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/maple-grove",
+          "capturedOn": "2026-09-14",
+          "quote": "Friday 8:00 AM - 7:00 PM Saturday 8:00 AM - 6:00 PM Sunday 8:00 AM - 8:00 PM"
+        },
+        "sessionMinutes": {
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/maple-grove",
+          "capturedOn": "2026-09-14",
+          "quote": "Guests are welcome to sauna for up to 40 minutes."
         }
       },
+      "hours": "Mon-Thu 8AM-8PM, Fri 8AM-7PM, Sat 8AM-6PM, Sun 8AM-8PM",
       "website": "https://www.perspiresaunastudio.com/locations/maple-grove",
       "phone": "+1-763-363-6570",
       "featured": false,
@@ -18577,7 +18503,7 @@
       "name": "Perspire Sauna Studio — Plymouth",
       "url": "https://findsaunaplunge.com/venue/perspire-sauna-studio-plymouth-minneapolis-mn/",
       "status": "community",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-09-14",
       "brand": "perspire-sauna-studio",
       "address": {
         "street": "3225 Vicksburg Lane North, Suite A",
@@ -18611,7 +18537,8 @@
       "pricing": {
         "dropIn": 40,
         "membershipMo": 89,
-        "classPack": 130
+        "classPack": 130,
+        "intro": 30
       },
       "sources": {
         "access": {
@@ -18631,13 +18558,23 @@
         },
         "classPack": {
           "sourceUrl": "https://www.perspiresaunastudio.com/locations/plymouth",
-          "capturedOn": "2026-08-15",
-          "quote": "4 Session Pack Buy a 4 Session Pack $ 130 One time payment"
+          "capturedOn": "2026-09-14",
+          "quote": "Buy a 4 Session Pack $ 130 One time payment"
         },
         "hours": {
           "sourceUrl": "https://www.perspiresaunastudio.com/locations/plymouth",
           "capturedOn": "2026-08-24",
           "quote": "Friday 8:00 AM - 7:00 PM Saturday 8:00 AM - 6:00 PM Sunday 8:00 AM - 8:00 PM"
+        },
+        "intro": {
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/plymouth",
+          "capturedOn": "2026-09-14",
+          "quote": "Book $ 30 Intro Session"
+        },
+        "sessionMinutes": {
+          "sourceUrl": "https://www.perspiresaunastudio.com/locations/plymouth",
+          "capturedOn": "2026-09-14",
+          "quote": "Guests are welcome to sauna for up to 40 minutes."
         }
       },
       "hours": "Mon-Thu 8AM-8PM, Fri 8AM-7PM, Sat 8AM-6PM, Sun 8AM-8PM",
@@ -19145,7 +19082,7 @@
       "name": "Life Time Rosemount",
       "url": "https://findsaunaplunge.com/venue/life-time-rosemount-minneapolis-mn/",
       "status": "brand_import",
-      "lastVerified": "2026-08-26",
+      "lastVerified": "2026-09-14",
       "brand": "life-time",
       "address": {
         "street": "14290 Akron Avenue",
@@ -19188,11 +19125,11 @@
         },
         "hours": {
           "sourceUrl": "https://www.lifetime.life/locations/mn/rosemount/amenities.html",
-          "capturedOn": "2026-08-26",
-          "quote": "\"dayOfWeek\": \"Monday\", \"opens\": \"04:00\", \"closes\": \"00:00\""
+          "capturedOn": "2026-09-14",
+          "quote": "\"dayOfWeek\": \"Monday\", \"opens\": \"04:00\", \"closes\": \"23:00\""
         }
       },
-      "hours": "Mon–Fri 4:00am–12:00am, Sat–Sun 6:00am–10:00pm",
+      "hours": "Mon–Fri 4:00am–11:00pm, Sat–Sun 6:00am–10:00pm",
       "website": "https://www.lifetime.life/locations/mn/rosemount/amenities.html",
       "phone": "+1-651-855-6500",
       "featured": false,
@@ -19309,6 +19246,137 @@
       "phone": "+1-651-730-6000",
       "featured": false,
       "summary": "Life Time Woodbury is a Life Time athletic club in Woodbury, MN. Its published amenities list a cold plunge and steam room; use is by club membership."
+    },
+    {
+      "id": "optimum-health-minneapolis-mn",
+      "name": "Optimum Health",
+      "url": "https://findsaunaplunge.com/venue/optimum-health-minneapolis-mn/",
+      "status": "community",
+      "lastVerified": "2026-09-01",
+      "address": {
+        "street": "7781 Amana Trail #300",
+        "city": "Inver Grove Heights",
+        "state": "MN",
+        "zip": "55077",
+        "country": "US"
+      },
+      "city": {
+        "slug": "minneapolis-mn",
+        "name": "Minneapolis",
+        "state": "Minnesota",
+        "stateSlug": "mn",
+        "url": "https://findsaunaplunge.com/mn/minneapolis-mn/"
+      },
+      "geo": {
+        "lat": 44.837651,
+        "lng": -93.090275
+      },
+      "modalities": [
+        {
+          "value": "cold_plunge",
+          "label": "Cold Plunge"
+        },
+        {
+          "value": "traditional_sauna",
+          "label": "Traditional Sauna"
+        },
+        {
+          "value": "infrared_sauna",
+          "label": "Infrared Sauna"
+        },
+        {
+          "value": "red_light",
+          "label": "Red Light Therapy"
+        },
+        {
+          "value": "pemf",
+          "label": "PEMF"
+        },
+        {
+          "value": "compression",
+          "label": "Compression Therapy"
+        }
+      ],
+      "access": "private_suite",
+      "temps": {
+        "saunaF": [
+          185,
+          190
+        ],
+        "plungeF": [
+          45,
+          50
+        ]
+      },
+      "pricing": {
+        "dropIn": 40,
+        "classPack": 180,
+        "intro": 59,
+        "note": "Sauna and cold plunge are sold together as one private-room booking: $40 for 30 minutes, $60 for 60 minutes, the same rate for the traditional and the infrared suite. Packs: 5 x 30 min $180 ($36/session), 5 x 60 min $270 ($54/session), 10 x 30 min $320 ($32/session), 10 x 60 min $480 ($48/session). New guests can take the $59 Ultimate Reset once, which the studio says includes contrast therapy, PEMF, compression and LED in one session. Extra people in your room are charged 50% of the service cost — the studio publishes the percentage, not a dollar figure. THERE IS NO MONTHLY MEMBERSHIP FOR SAUNA OR COLD PLUNGE: the $199/month plan buys red light therapy and the $299/month plan buys PEMF, and neither includes a sauna room. Other services are priced separately — red light $30 for 15 minutes, PEMF $40/$60 for 30/60 minutes, Normatec compression $20/$40 for 30/60 minutes. HSA and FSA cards are accepted, and new chiropractic patients are offered a free 30-minute sauna and cold plunge as a separate return visit."
+      },
+      "sources": {
+        "access": {
+          "sourceUrl": "https://optimum.health/faqs",
+          "capturedOn": "2026-09-01",
+          "quote": "All sessions take place in completely private suites.",
+          "ownerConfirmedOn": "2026-09-01"
+        },
+        "saunaF": {
+          "sourceUrl": "https://optimum.health/recovery/traditional-sauna",
+          "capturedOn": "2026-09-01",
+          "quote": "Traditional sauna therapy heats the air itself to 185–190°F",
+          "ownerConfirmedOn": "2026-09-01"
+        },
+        "dropIn": {
+          "sourceUrl": "https://optimum.health/recovery/cold-plunge",
+          "capturedOn": "2026-09-01",
+          "quote": "30 minutes $40 | 60 minutes $60",
+          "ownerConfirmedOn": "2026-09-01"
+        },
+        "classPack": {
+          "sourceUrl": "https://optimum.health/recovery/traditional-sauna",
+          "capturedOn": "2026-09-01",
+          "quote": "5-Pack 30 Min $180"
+        },
+        "intro": {
+          "sourceUrl": "https://optimum.health/recovery/red-light-therapy",
+          "capturedOn": "2026-09-01",
+          "quote": "Our $59 Ultimate Reset intro offer includes contrast therapy, PEMF, compression, and LED all in one session."
+        },
+        "hours": {
+          "sourceUrl": "https://optimum.health/faqs",
+          "capturedOn": "2026-09-01",
+          "quote": "Hours: Tue–Thu 8am–7pm, Fri 8am–3pm, Sat–Sun 9am–2pm"
+        },
+        "sessionMinutes": {
+          "sourceUrl": "https://optimum.health/recovery/cold-plunge",
+          "capturedOn": "2026-09-01",
+          "quote": "30- or 60-minute sessions",
+          "ownerConfirmedOn": "2026-09-01"
+        },
+        "plungeHardware": {
+          "sourceUrl": "https://optimum.health/recovery/cold-plunge",
+          "capturedOn": "2026-09-01",
+          "quote": "Our temperature-controlled commercial cold plunges provide consistent cold water without adding loose ice for each session."
+        },
+        "swimwear": {
+          "sourceUrl": "https://optimum.health/faqs",
+          "capturedOn": "2026-09-01",
+          "quote": "Wear whatever is comfortable — swimsuit, shorts, or workout clothes. Towels are provided."
+        },
+        "plungeF": {
+          "sourceUrl": "https://optimum.health/recovery/traditional-sauna",
+          "capturedOn": "2026-09-01",
+          "quote": "Your private suite includes a dedicated cold plunge maintained at 45–50°F.",
+          "ownerConfirmedOn": "2026-09-01"
+        }
+      },
+      "hours": "Tue–Thu 8:00am–7:00pm, Fri 8:00am–3:00pm, Sat–Sun 9:00am–2:00pm, closed Monday",
+      "website": "https://optimum.health/",
+      "bookingUrl": "https://optimum.health/book-a-session",
+      "phone": "+1-651-237-3799",
+      "featured": false,
+      "summary": "Optimum Health is a chiropractic and functional-medicine practice in Inver Grove Heights that also runs two bookable contrast suites, so the sauna and plunge sit alongside blood panels and rehab rather than in a standalone bathhouse. There are two rooms — one traditional sauna, one infrared — and each has its own cold plunge, towels, robes and shower inside it; the plunge comes with the room rather than being booked separately, and no other party can book your slot. A session is $40 for 30 minutes or $60 for 60 minutes, the same either way, with 5- and 10-session packs that bring the rate down and a $59 first visit for new guests. There is no monthly membership for sauna or cold plunge at all — the two monthly plans buy red light therapy and PEMF instead. The traditional sauna runs at a published 185–190°F and the water at 45–50°F — figures the studio states on its own pages and confirmed to us in writing, though its FAQ gives slightly looser versions of both. The infrared cabin runs cooler, published only as a ceiling rather than a range, so no figure is listed for it. Booking runs through Vagaro, HSA and FSA are accepted, and the practice is closed Mondays."
     },
     {
       "id": "framework-wedgewood-houston-nashville-tn",
@@ -19798,7 +19866,7 @@
       "name": "sēk Sauna Studio",
       "url": "https://findsaunaplunge.com/venue/sek-sauna-studio-franklin-tn/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "1201 Liberty Pike, Ste. 121",
         "city": "Franklin",
@@ -19838,51 +19906,73 @@
       "access": "private_suite",
       "temps": {
         "plungeF": [
-          39,
-          50
+          42,
+          42
         ]
       },
       "pricing": {
         "dropIn": 30,
-        "membershipMo": 89
+        "membershipMo": 99,
+        "priceFrom": [
+          "membershipMo"
+        ],
+        "intro": 99,
+        "classPack": 200,
+        "note": "An Intro Week Pass for new clients is $99 for four sessions in seven days; the cheapest pack is ten cold plunges for $200. Cold plunge room bookings run 15 minutes."
       },
       "sources": {
         "plungeF": {
           "sourceUrl": "https://www.seksauna.com/cold-plunge",
-          "capturedOn": "2026-08-16",
-          "quote": "Cold plunge therapy, with water temperatures between 39-50°F, triggers the body's cold response"
+          "capturedOn": "2026-09-02",
+          "quote": "At sēk the water is held at 42 degrees"
         },
         "dropIn": {
           "sourceUrl": "https://www.seksauna.com/pricing",
-          "capturedOn": "2026-08-16",
-          "quote": "Cold Plunge $30"
+          "capturedOn": "2026-09-14",
+          "quote": "Buy Cold Plunge, $30"
         },
         "membershipMo": {
           "sourceUrl": "https://www.seksauna.com/pricing",
-          "capturedOn": "2026-08-16",
-          "quote": "sēk $89 3 mix & match sessions/month"
+          "capturedOn": "2026-09-02",
+          "quote": "A membership. From $99 a month with Full Studio Access, sessions that roll over 30 days, and a designated +1."
         },
         "access": {
           "sourceUrl": "https://www.seksauna.com/faqs",
-          "capturedOn": "2026-08-16",
-          "quote": "Yes, you will be in your own private room."
-        },
-        "sessionMinutes": {
-          "sourceUrl": "https://www.seksauna.com/faqs",
-          "capturedOn": "2026-08-16",
-          "quote": "Infrared Sauna, Pressotherapy, & Celluma LED Light Therapy last between 30-45 minutes, depending on the type of session you select."
+          "capturedOn": "2026-09-02",
+          "quote": "Every service at sēk happens in your own private room, the cold plunge included."
         },
         "cancellationHours": {
           "sourceUrl": "https://www.seksauna.com/faqs",
-          "capturedOn": "2026-08-16",
-          "quote": "we do have an 8-hour cancellation/reschedule policy"
+          "capturedOn": "2026-09-02",
+          "quote": "Cancel or reschedule at least 8 hours before your appointment."
+        },
+        "hours": {
+          "sourceUrl": "https://www.seksauna.com/faqs",
+          "capturedOn": "2026-09-14",
+          "quote": "Monday to Thursday, 9am to 8pm. Friday, 9am to 5pm. Saturday, 10am to 5pm. Sunday, 11am to 5pm."
+        },
+        "intro": {
+          "sourceUrl": "https://www.seksauna.com/pricing",
+          "capturedOn": "2026-09-14",
+          "quote": "Intro Week Pass $99 4 sessions in 7 days. Full Studio Access."
+        },
+        "classPack": {
+          "sourceUrl": "https://www.seksauna.com/pricing",
+          "capturedOn": "2026-09-14",
+          "quote": "Buy Plunge 10, $200"
+        },
+        "sessionMinutes": {
+          "sourceUrl": "https://www.seksauna.com/cold-plunge",
+          "capturedOn": "2026-09-14",
+          "quote": "A private cold plunge room held at 42 degrees, yours for 15 minutes."
         }
       },
+      "hours": "Mon-Thu 9:00am-8:00pm, Fri 9:00am-5:00pm, Sat 10:00am-5:00pm, Sun 11:00am-5:00pm",
       "website": "https://www.seksauna.com/",
       "bookingUrl": "https://www.seksauna.com/book-now",
       "phone": "+1-615-614-3461",
       "featured": false,
-      "summary": "sēk Sauna Studio is a private-suite wellness studio in Franklin's Cool Springs area, offering infrared sauna pods and cabins, cold plunge, red light therapy, and pressotherapy compression, each in its own private room. Cold plunge water runs 39-50°F; a single cold plunge session is $30, and membership starts at $89/month for three mix-and-match sessions. Sessions run 30-45 minutes for most services; cancelling within 8 hours of an appointment still uses the session credit."
+      "summary": "sēk Sauna Studio is a private-suite wellness studio in Franklin's Cool Springs area, offering infrared sauna pods and cabins, cold plunge, red light therapy, and pressotherapy compression, each in its own private room. The cold plunge is held at 42°F; a single cold plunge session is $30, and membership starts at $99 a month. Cancelling within 8 hours of an appointment still uses the session credit."
     },
     {
       "id": "pure-sweat-studios-brentwood-tn",
@@ -19945,7 +20035,7 @@
       "name": "Pause Studio — Green Hills",
       "url": "https://findsaunaplunge.com/venue/pause-studio-green-hills-nashville-tn/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "3822 Bedford Ave",
         "city": "Nashville",
@@ -19992,7 +20082,7 @@
       ],
       "access": "private_suite",
       "pricing": {
-        "membershipMo": 79
+        "membershipMo": 149
       },
       "sources": {
         "access": {
@@ -20007,21 +20097,21 @@
         },
         "membershipMo": {
           "sourceUrl": "https://pausestudio.com/locations/green-hills",
-          "capturedOn": "2026-08-16",
-          "quote": "Base 35% Savings $79"
+          "capturedOn": "2026-09-24",
+          "quote": "Core 40% Savings $149 | 12 Credits per month"
         }
       },
       "website": "https://pausestudio.com/locations/green-hills",
       "phone": "+1-629-702-2393",
       "featured": false,
-      "summary": "Pause Studio's Green Hills location is a recovery studio offering guided Contrast Therapy (infrared sauna plus cold plunge) in a private suite, alongside separate infrared sauna, cryotherapy, float, LED light therapy, and compression therapy services. Contrast therapy sessions run thirty or sixty minutes, chosen by the guest. Membership starts at $79/month for six credits."
+      "summary": "Pause Studio's Green Hills location is a recovery studio offering guided Contrast Therapy (infrared sauna plus cold plunge) in a private suite, alongside separate infrared sauna, cryotherapy, float, LED light therapy, and compression therapy services. Contrast therapy sessions run thirty or sixty minutes, chosen by the guest. Membership starts at $149/month for twelve credits."
     },
     {
       "id": "pause-studio-west-nashville-tn",
       "name": "Pause Studio — West Nashville",
       "url": "https://findsaunaplunge.com/venue/pause-studio-west-nashville-tn/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "12 City Blvd.",
         "city": "Nashville",
@@ -20068,7 +20158,7 @@
       ],
       "access": "private_suite",
       "pricing": {
-        "membershipMo": 79
+        "membershipMo": 149
       },
       "sources": {
         "access": {
@@ -20083,14 +20173,14 @@
         },
         "membershipMo": {
           "sourceUrl": "https://pausestudio.com/locations/west-nashville",
-          "capturedOn": "2026-08-16",
-          "quote": "Base 35% Savings $79"
+          "capturedOn": "2026-09-24",
+          "quote": "Core 40% Savings $149 | 12 Credits per month"
         }
       },
       "website": "https://pausestudio.com/locations/west-nashville",
       "phone": "+1-615-649-8949",
       "featured": false,
-      "summary": "Pause Studio's West Nashville location is a recovery studio offering guided Contrast Therapy (infrared sauna plus cold plunge) in a private suite, alongside separate infrared sauna, cryotherapy, float, LED light therapy, and compression therapy services. Contrast therapy sessions run thirty or sixty minutes, chosen by the guest. Membership starts at $79/month for six credits."
+      "summary": "Pause Studio's West Nashville location is a recovery studio offering guided Contrast Therapy (infrared sauna plus cold plunge) in a private suite, alongside separate infrared sauna, cryotherapy, float, LED light therapy, and compression therapy services. Contrast therapy sessions run thirty or sixty minutes, chosen by the guest. Membership starts at $149/month for twelve credits."
     },
     {
       "id": "restore-hyper-wellness-music-row-nashville-tn",
@@ -20624,7 +20714,7 @@
       "name": "AIRE Ancient Baths New York · Upper East Side",
       "url": "https://findsaunaplunge.com/venue/aire-ancient-baths-new-york-upper-east-side-new-york-ny/",
       "status": "community",
-      "lastVerified": "2026-08-02",
+      "lastVerified": "2026-09-24",
       "brand": "aire-ancient-baths-new-york",
       "address": {
         "street": "305 E 61st Street",
@@ -20661,8 +20751,8 @@
       "sources": {
         "hours": {
           "sourceUrl": "https://beaire.com/en/aire-ancient-baths-newyork-uppereastside",
-          "capturedOn": "2026-08-02",
-          "quote": "\"openingHoursSpecification\": [ { \"dayOfWeek\": [ \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\" ], \"opens\": \"10:00\", \"closes\": \"22:00\" }, { \"dayOfWeek\": [ \"Friday\", \"Sunday\" ], \"opens\": \"09:00\", \"closes\": \"22:00\" }, { \"dayOfWeek\": \"Saturday\", \"opens\": \"09:00\", \"closes\": \"23:00\" } ]"
+          "capturedOn": "2026-09-24",
+          "quote": "Opening hours Monday to Thursday 10:00AM - 10:00PM Friday 9:00AM - 10:00PM Saturday to Sunday 9:00AM - 10:00PM"
         },
         "cancellationHours": {
           "sourceUrl": "https://beaire.com/en/politica-cancelacion-newyork-uppereastside",
@@ -20670,7 +20760,7 @@
           "quote": "Booking modifications can be requested up to 48 hours prior to the scheduled appointment time."
         }
       },
-      "hours": "Mon–Thu 10:00am–10:00pm, Fri 9:00am–10:00pm, Sat 9:00am–11:00pm, Sun 9:00am–10:00pm",
+      "hours": "Mon–Thu 10:00am–10:00pm, Fri 9:00am–10:00pm, Sat–Sun 9:00am–10:00pm",
       "website": "https://beaire.com/en/aire-ancient-baths-newyork-uppereastside",
       "bookingUrl": "https://beaire.com/en/booking/newyork-uppereastside",
       "phone": "+1-332-244-4191",
@@ -20682,7 +20772,7 @@
       "name": "Akari Sauna (Greenpoint)",
       "url": "https://findsaunaplunge.com/venue/akari-sauna-greenpoint-new-york-ny/",
       "status": "community",
-      "lastVerified": "2026-08-02",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "149 Franklin St",
         "city": "Brooklyn",
@@ -20724,9 +20814,9 @@
           "quote": "DAYTIME Hours of Access: M ~ F: 8am - 4:30pm (*4pm last entry) Unlimited entry - no bookings required $35 guest pass availability Access once per day; up to 2 hours/visit Auto-renews monthly; 30 day cancellation notice Join - $165/month"
         },
         "guestFee": {
-          "sourceUrl": "https://www.akarisauna.com/faq",
-          "capturedOn": "2026-08-02",
-          "quote": "Can I bring a guest? Yes, to bring a guest please email guests@akarisauna.com with your desired location, date & time of arrival. To help us manage capacity, guests must arrive and leave with the member. Guest fee: $35 + tax (payable in person)."
+          "sourceUrl": "https://www.akarisauna.com/membership?tab=greenpoint",
+          "capturedOn": "2026-09-14",
+          "quote": "$35 guest pass availability"
         },
         "hours": {
           "sourceUrl": "https://www.akarisauna.com/membership?tab=greenpoint",
@@ -20735,8 +20825,8 @@
         },
         "access": {
           "sourceUrl": "https://www.akarisauna.com/faq",
-          "capturedOn": "2026-08-02",
-          "quote": "What amenities are at each location? While each location is designed differently, all of our studios offer two communal dry heat saunas, cold shower and plunges, lockers, showers and changing rooms. Towels and slippers are available on site."
+          "capturedOn": "2026-09-14",
+          "quote": "all of our studios offer two communal dry heat saunas, cold shower and cold pool, lockers, showers and changing rooms"
         },
         "sessionMinutes": {
           "sourceUrl": "https://www.akarisauna.com/membership?tab=greenpoint",
@@ -21124,78 +21214,11 @@
         }
       ],
       "access": "mixed",
-      "temps": {
-        "plungeF": [
-          52,
-          52
-        ],
-        "saunaF": [
-          175,
-          190
-        ]
-      },
-      "pricing": {
-        "dayPass": 65,
-        "classPack": 325,
-        "note": "Wet Lounge admission is $65 Monday–Thursday and $75 Friday–Sunday, sold as an all-day pass and included with any treatment of 60 minutes or longer. Multi-visit options are packages rather than monthly memberships: $325 for 6 day passes, $899 unlimited half-year, $1,499 unlimited full year, $1,499 half-year couples, $2,298 full-year couples. The private VIP Suite is a separate add-on at $275–$285 for the first hour and $165–$175 per additional hour, and VIP passes are not accepted at weekends. The Russian sauna runs at an average 175–190°F, the Swedish sauna at an average of about 150°F, and the hot tub 104°F. Both sauna figures are published as averages rather than setpoints. No monthly membership is published."
-      },
-      "sources": {
-        "plungeF": {
-          "sourceUrl": "https://bodybybrooklyn.com/amenities/",
-          "capturedOn": "2026-08-02",
-          "quote": "our Arctic Cold Plunge Pool (52°F)"
-        },
-        "saunaF": {
-          "sourceUrl": "https://bodybybrooklyn.com/amenities/",
-          "capturedOn": "2026-08-02",
-          "quote": "circulation in an average temperature of 175 °F -190 °F. Surrounded by"
-        },
-        "dayPass": {
-          "sourceUrl": "https://bodybybrooklyn.com/amenities/",
-          "capturedOn": "2026-08-02",
-          "quote": "General Admission: Weekday (Mon - Thurs) $65 Weekend (Fri - Sun) $75"
-        },
-        "classPack": {
-          "sourceUrl": "https://bodybybrooklyn.com/programs/",
-          "capturedOn": "2026-08-02",
-          "quote": "Package 1………Wet Lounge Day Pass…………………..$325 | 6 passes"
-        },
-        "access": {
-          "sourceUrl": "https://bodybybrooklyn.com/amenities/",
-          "capturedOn": "2026-08-02",
-          "quote": "Amenities VIP Suite Wet Lounge Dry Lounge VIP Suite Surround yourself in romance in our VIP Suite. This private room features a full butler service with a steam shower, private jacuzzi, couch, a flat screen television, complimentary champagne"
-        },
-        "plungeHardware": {
-          "sourceUrl": "https://bodybybrooklyn.com/amenities/",
-          "capturedOn": "2026-08-02",
-          "quote": "B3 Cure: Rotate between our Thermal Hot Tub (104°F), our Arctic Cold Plunge Pool (52°F), and our healing cold showers."
-        },
-        "swimwear": {
-          "sourceUrl": "https://bodybybrooklyn.com/about-us/",
-          "capturedOn": "2026-08-02",
-          "quote": "Bathing suits and flip-flops are required at all times in the Wet Lounge and robes and flip-flops are required at all times in the Dry Lounge."
-        },
-        "ageMin": {
-          "sourceUrl": "https://bodybybrooklyn.com/about-us/",
-          "capturedOn": "2026-08-02",
-          "quote": "An 18+ valid state ID is required on the day of service to complete the transaction."
-        },
-        "reservation": {
-          "sourceUrl": "https://bodybybrooklyn.com/about-us/",
-          "capturedOn": "2026-08-02",
-          "quote": "A $50 deposit per treatment, on a valid credit card, is required to hold a reservation."
-        },
-        "cancellationHours": {
-          "sourceUrl": "https://bodybybrooklyn.com/about-us/",
-          "capturedOn": "2026-08-02",
-          "quote": "We require at least 48 hours notice to reschedule or cancel an appointment. There is a $50 charge for canceled or rescheduled appointments with less than 48 hours notice. A 100% charge applies for no-shows."
-        }
-      },
-      "website": "https://bodybybrooklyn.com/",
+      "sources": {},
       "bookingUrl": "https://go.booker.com/location/bodybybrooklyn/service-menu",
       "phone": "+1-718-923-9400",
       "featured": false,
-      "summary": "Body By Brooklyn is a 10,000-square-foot day spa and European-style bathhouse at 275 Park Ave in Clinton Hill, Brooklyn, combining a communal Wet Lounge — Russian sauna averaging 175–190°F, a cooler Swedish sauna around 150°F, aroma steam room, 104°F hot tub and a shared 52°F cold plunge pool — with a full treatment menu and a bookable private VIP Suite. It is one of the few NYC bathhouses to publish real operating temperatures, though it sells no monthly membership and its opening hours are not currently stated in a form we can cite."
+      "summary": "Body By Brooklyn is a 10,000-square-foot day spa and European-style bathhouse at 275 Park Ave in Clinton Hill, Brooklyn, with a communal Wet Lounge (Russian and Swedish saunas, an aroma steam room, a hot tub and a cold plunge pool), a full treatment menu and a bookable private VIP Suite. Its website has been offline since mid-September 2026, so the temperatures, admission prices and house rules it used to publish can no longer be checked and are not shown here. Its Instagram says the spa remains open, and bookings still run through its online booking page."
     },
     {
       "id": "brooklyn-banya-new-york-ny",
@@ -21267,7 +21290,7 @@
       "name": "Brooklyn Bathhouse",
       "url": "https://findsaunaplunge.com/venue/brooklyn-bathhouse-new-york-ny/",
       "status": "community",
-      "lastVerified": "2026-08-02",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "731 Flatbush Avenue",
         "city": "Brooklyn",
@@ -21303,19 +21326,13 @@
       "access": "communal",
       "pricing": {
         "dropIn": 50,
-        "classPack": 280,
-        "note": "The Standard Day Pass is $50 for four hours of amenity use — despite the name, no all-day product is sold. A Weekend Day Pass exists but its own page describes it both as \"Sat & Sun All Day\" and as four hours, so no weekend rate is recorded. A Summer Recovery Pass sells 8 sessions for $280 over two months, and a $30 Monday Reset deal is a limited summer promotion rather than a standing rate. No membership is published."
+        "note": "The Standard Day Pass is $50 for four hours of amenity use; despite the name, no all-day product is sold. Time-restricted single entries are cheaper: $38 early-bird or night-owl passes on weekdays and $48 weekend variants. The Weekend Day Pass is $65 for four hours, sold Friday after 3:30pm and all day Saturday and Sunday. No multi-visit soak pack is currently published. No membership is published."
       },
       "sources": {
         "dropIn": {
           "sourceUrl": "https://www.brooklynbathhouse.nyc/day-pass",
           "capturedOn": "2026-08-02",
           "quote": "Standard Day Pass 4 hour use of the amenities Loading days... Duration Varies 50 US dollars $50"
-        },
-        "classPack": {
-          "sourceUrl": "https://www.brooklynbathhouse.nyc/pricing-plans/massage-packs",
-          "capturedOn": "2026-08-02",
-          "quote": "Summer Recovery Pass $ 280 280$ Enjoy discounted entry all summer long as part of this 8-session pass. Valid for 2 months"
         },
         "sessionMinutes": {
           "sourceUrl": "https://www.brooklynbathhouse.nyc/booking-calendar/standard-day-pass",
@@ -21341,8 +21358,14 @@
           "sourceUrl": "https://www.brooklynbathhouse.nyc/rules",
           "capturedOn": "2026-08-02",
           "quote": "Bathing suits are required in all public areas in our facility as we are a co-ed bathhouse. All biological private parts, regardless of gender (male, female, or non-binary) must be covered, including female breasts."
+        },
+        "hours": {
+          "sourceUrl": "https://www.brooklynbathhouse.nyc/day-pass",
+          "capturedOn": "2026-09-14",
+          "quote": "Hours of Operation: Sunday- Thursday 9AM - 11PM Friday - Saturday 9AM - 12AM"
         }
       },
+      "hours": "Sun-Thu 9:00am-11:00pm, Fri-Sat 9:00am-12:00am",
       "website": "https://www.brooklynbathhouse.nyc/",
       "bookingUrl": "https://www.brooklynbathhouse.nyc/booknow",
       "phone": "+1-718-874-6550",
@@ -21354,7 +21377,7 @@
       "name": "Elahni",
       "url": "https://findsaunaplunge.com/venue/elahni-new-york-ny/",
       "status": "community",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "12 W 27th St, Floor 2",
         "city": "New York",
@@ -21386,8 +21409,8 @@
       "access": "mixed",
       "temps": {
         "plungeF": [
-          39,
-          39
+          40,
+          40
         ],
         "saunaF": [
           180,
@@ -21395,66 +21418,72 @@
         ]
       },
       "pricing": {
-        "note": "No price could be traced to a capturable page: Elahni renders its booking and membership pricing client-side, so no figure on those pages can be quoted or mechanically rechecked. The only static figure published is a \"From $65\" floor for its 70-minute Signature session, which is a floor rather than a rate."
+        "dropIn": 39,
+        "membershipMo": 119,
+        "note": "Reset (30-minute, self-guided) $39 per seat; Signature (70-minute, hosted) $65 per seat; the whole private Signature room is $260 for up to four guests. Memberships, plus tax: Reset four per month $119 or eight per month $199; Signature four per month $189 or eight per month $349. Session packs are priced inside the booking widget and cannot be quoted. The Reset carries a six-hour cancellation window; the Signature 24 hours."
       },
       "sources": {
         "plungeF": {
           "sourceUrl": "https://www.elahni.com/",
-          "capturedOn": "2026-08-02",
-          "quote": "Ice Bath 39° cold immersion that sharpens presence and brings you back to center."
+          "capturedOn": "2026-09-14",
+          "quote": "40° Ice Bath Guided by the breath Forty degrees."
         },
         "saunaF": {
           "sourceUrl": "https://www.elahni.com/",
-          "capturedOn": "2026-08-02",
-          "quote": "Finnish Sauna 180° heat that opens and softens, preparing the body for contrast."
-        },
-        "hours": {
-          "sourceUrl": "https://www.elahni.com/",
-          "capturedOn": "2026-08-02",
-          "quote": "\"openingHoursSpecification\":[{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Monday\",\"Tuesday\"],\"opens\":\"15:00\",\"closes\":\"19:30\"},{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Wednesday\",\"Thursday\",\"Friday\"],\"opens\":\"07:00\",\"closes\":\"19:30\"},{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Saturday\",\"Sunday\"],\"opens\":\"09:00\",\"closes\":\"19:00\"}]"
+          "capturedOn": "2026-09-14",
+          "quote": "180° Finnish Sauna Cedar & stillness"
         },
         "access": {
-          "sourceUrl": "https://www.elahni.com/first-timers",
-          "capturedOn": "2026-08-24",
-          "quote": "The Signature is priced per guest. The Signature - Private is also available."
+          "sourceUrl": "https://www.elahni.com/faq",
+          "capturedOn": "2026-09-14",
+          "quote": "Current capacity and the choice between a shared session and the private room appear with each option on the reservations menu."
         },
         "sessionMinutes": {
-          "sourceUrl": "https://www.elahni.com/reserve",
-          "capturedOn": "2026-08-02",
-          "quote": "\"name\":\"30 Min Reset\",\"description\":\"A 30-minute guided sauna and ice bath reset, offered weekdays from 7:30am to 4pm. Limited to 2 guests per session.\""
+          "sourceUrl": "https://www.elahni.com/",
+          "capturedOn": "2026-09-14",
+          "quote": "The Reset 30 min · Self-guided $39 → per seat Thirty self-guided minutes of heat, cold, and stillness. The Signature 70 min · Hosted"
         },
         "roundsPrescribed": {
           "sourceUrl": "https://www.elahni.com/first-timers",
-          "capturedOn": "2026-08-02",
-          "quote": "Your First Visit 70 Minutes · 3 Rounds"
+          "capturedOn": "2026-09-14",
+          "quote": "Three rounds of Finnish sauna and ice bath, alternating, paced by your host"
         },
         "ageMin": {
           "sourceUrl": "https://www.elahni.com/faq",
-          "capturedOn": "2026-08-02",
-          "quote": "Is there an age limit? Yes, all guest must be at least 18 years of age."
+          "capturedOn": "2026-09-14",
+          "quote": "Is there an age limit? Yes. All guests must be at least 18 years old."
         },
         "reservation": {
           "sourceUrl": "https://www.elahni.com/faq",
-          "capturedOn": "2026-08-02",
-          "quote": "Do you allow walk-ins? No, all sessions must be booked in advance."
+          "capturedOn": "2026-09-14",
+          "quote": "Do you take walk-ins? No. Every session is reserved in advance."
         },
         "cancellationHours": {
-          "sourceUrl": "https://www.elahni.com/faq",
-          "capturedOn": "2026-08-02",
-          "quote": "Cancellations made at least 24 hours in advance will receive a full refund. Cancellations within 24 hours are non-refundable due to our intimate session sizes."
+          "sourceUrl": "https://www.elahni.com/",
+          "capturedOn": "2026-09-14",
+          "quote": "Cancellation 24 hours"
         },
         "swimwear": {
           "sourceUrl": "https://www.elahni.com/faq",
-          "capturedOn": "2026-08-02",
-          "quote": "We recommend bringing a swimsuit and a water bottle. Minimalist, comfortable clothing is ideal for both the sauna and ice baths."
+          "capturedOn": "2026-09-14",
+          "quote": "What should I bring? Bring a swimsuit and a water bottle. Towels, lockers, showers, and hairdryers are provided."
+        },
+        "dropIn": {
+          "sourceUrl": "https://www.elahni.com/",
+          "capturedOn": "2026-09-14",
+          "quote": "The Reset 30 min · Self-guided $39 → per seat"
+        },
+        "membershipMo": {
+          "sourceUrl": "https://www.elahni.com/memberships",
+          "capturedOn": "2026-09-14",
+          "quote": "4 per month $ 119"
         }
       },
-      "hours": "Mon–Tue 3:00pm–7:30pm, Wed–Fri 7:00am–7:30pm, Sat–Sun 8:00am–6:00pm",
       "website": "https://www.elahni.com/",
       "bookingUrl": "https://www.elahni.com/reserve",
       "phone": "+1-917-819-2071",
       "featured": false,
-      "summary": "Elahni is a contrast-therapy studio in Manhattan pairing a sauna held at 180°F with a cold plunge at 39°F across a three-round session, bookable as a semi-private space or a private buyout. It publishes the most precise operating temperatures of any studio in the city, but renders its session and membership prices client-side, so none can be quoted or rechecked here."
+      "summary": "Elahni is a contrast-therapy studio in Manhattan pairing a sauna held at 180°F with a cold plunge at 40°F across a three-round session, bookable as a shared session or as a private room. It publishes the most precise operating temperatures of any studio in the city; its 30-minute self-guided Reset is $39 a seat and the cheapest membership is $119 a month. Opening hours are not published and every session is reserved in advance."
     },
     {
       "id": "forest-hills-spa-new-york-ny",
@@ -21699,7 +21728,7 @@
       "name": "HOTWORX - Staten Island (Charleston)",
       "url": "https://findsaunaplunge.com/venue/hotworx-staten-island-charleston-new-york-ny/",
       "status": "community",
-      "lastVerified": "2026-08-02",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "2955 Veterans Rd. W. Unit 1E",
         "city": "Staten Island",
@@ -21727,13 +21756,13 @@
       "access": "communal",
       "pricing": {
         "membershipMo": 79,
-        "note": "Two membership tiers are published for this studio, $79 and $99 per month, both plus taxes and fees. No drop-in, day pass or class pack is sold. A guest may be scheduled free of charge during staffed hours."
+        "note": "The Sweat Elite membership is $99 per month plus taxes and fees; the Sweat Basic tier is still listed but its monthly rate is no longer displayed, only a start-up fee. No drop-in, day pass or class pack is sold. A first session is free during staffed hours, and a guest may be scheduled free of charge during staffed hours."
       },
       "sources": {
         "membershipMo": {
           "sourceUrl": "https://www.hotworx.net/customerportal/NY0018/index.php?redirect=no",
-          "capturedOn": "2026-08-02",
-          "quote": "SELECT --> SWEAT BASIC $ 79 /mo --> plus taxes & fees"
+          "capturedOn": "2026-09-24",
+          "quote": "SWEAT BASIC $ 79 /mo"
         },
         "sessionMinutes": {
           "sourceUrl": "https://www.hotworx.net/studio/statenisland-charleston",
@@ -22262,7 +22291,7 @@
       "name": "Recovery Mode",
       "url": "https://findsaunaplunge.com/venue/recovery-mode-new-york-ny/",
       "status": "community",
-      "lastVerified": "2026-08-02",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "30-29 Steinway Street",
         "city": "Queens",
@@ -22315,13 +22344,13 @@
         },
         "cancellationHours": {
           "sourceUrl": "https://www.recoverymodenyc.com/cancellationpolicy",
-          "capturedOn": "2026-08-02",
-          "quote": "Recovery Boosters Policy (Cold Plunge, Infrared Sauna, Normatec Compression, Oxygen Boost, Day Passes, and similar recovery services) All recovery services are classified as Recovery Boosters . Rescheduling with less than 12 hours’ notice: You will forfeit your payment and lose the session credit."
+          "capturedOn": "2026-09-24",
+          "quote": "12-HOUR CANCELLATION POLICY: RECOVERY BOOSTERS Applies to Cold Plunge, Infrared Sauna, Normatec Compression, Oxygen Boost, Day Passes, and other services specifically designated as Recovery Boosters."
         },
         "reservation": {
           "sourceUrl": "https://www.recoverymodenyc.com/cancellationpolicy",
-          "capturedOn": "2026-08-02",
-          "quote": "A deposit and valid card on file may be required to reserve services. Your card information is securely stored and charged only according to this policy."
+          "capturedOn": "2026-09-24",
+          "quote": "Walk-in clients are subject to all applicable Recovery Mode policies and must agree to the relevant terms before receiving services."
         }
       },
       "hours": "Mon–Fri 8:00am–8:00pm, Sat–Sun 9:00am–6:00pm",
@@ -22462,11 +22491,6 @@
           "sourceUrl": "https://www.remedyplace.com/clubs/soho",
           "capturedOn": "2026-08-02",
           "quote": "Monday - Friday 10am - 8pm Saturday - Sunday 10am - 7pm"
-        },
-        "reservation": {
-          "sourceUrl": "https://www.remedyplace.com/clubs/soho",
-          "capturedOn": "2026-08-02",
-          "quote": "You don't have to be a member to experience Remedy Place Soho. Anyone can book a reservation and explore our full range of offerings."
         }
       },
       "hours": "Mon–Fri 10:00am–8:00pm, Sat–Sun 10:00am–8:00pm",
@@ -22763,7 +22787,7 @@
       "name": "Wall Street Bath & Spa 88",
       "url": "https://findsaunaplunge.com/venue/wall-street-bath-spa-88-new-york-ny/",
       "status": "community",
-      "lastVerified": "2026-08-02",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "88 Fulton Street",
         "city": "New York",
@@ -22808,9 +22832,9 @@
         ]
       },
       "pricing": {
-        "dayPass": 59.75,
+        "dayPass": 65,
         "classPack": 500,
-        "note": "Admission is $59.75 Monday–Friday and $64.75 at weekends and holidays, both before tax. Ten-day and twenty-day admission cards are $500 and $900. Towels, slippers and lockers are included, and there is no re-entry on a single visit. A Russian banya platza ritual is $60 for 15 minutes. The private VIP room is $350 for three hours, or $450 with a private sauna for up to six people. The jacuzzi runs 102–104°F; no sauna or steam-room temperature is published."
+        "note": "Admission is $65 Monday–Friday and $70 at weekends and holidays, both before tax and service fee. Ten-day and twenty-day admission cards are $500 and $900. Towels, slippers and lockers are included, and there is no re-entry on a single visit. A Russian banya platza ritual is $60 for 15 minutes. The private VIP room is $350 for three hours, or $450 with a private sauna for up to six people. The jacuzzi runs 102–104°F; no sauna or steam-room temperature is published."
       },
       "sources": {
         "plungeF": {
@@ -22820,8 +22844,8 @@
         },
         "dayPass": {
           "sourceUrl": "https://spa88.com/pricing",
-          "capturedOn": "2026-08-02",
-          "quote": "Admission MON-FRI One day $59.75"
+          "capturedOn": "2026-09-24",
+          "quote": "Admission MON-FRI One day $65"
         },
         "classPack": {
           "sourceUrl": "https://spa88.com/pricing",
@@ -22849,7 +22873,7 @@
       "bookingUrl": "http://spa88.com/select-option",
       "phone": "+1-212-766-8600",
       "featured": false,
-      "summary": "Wall Street Bath & Spa 88 is a Financial District bathhouse at 88 Fulton Street with a stone-heated sauna, an Old American shvitz, an infrared sauna, a eucalyptus steam room, a 52°F cold plunge and a hot jacuzzi, on a continuously co-ed floor at $59.75 weekday admission with towels, slippers and lockers included. It publishes no single-sex schedule, though it does not state one way or the other."
+      "summary": "Wall Street Bath & Spa 88 is a Financial District bathhouse at 88 Fulton Street with a stone-heated sauna, an Old American shvitz, an infrared sauna, a eucalyptus steam room, a 52°F cold plunge and a hot jacuzzi, on a continuously co-ed floor at $65 weekday admission with towels, slippers and lockers included. It publishes no single-sex schedule, though it does not state one way or the other."
     },
     {
       "id": "world-spa-new-york-ny",
@@ -23773,7 +23797,7 @@
       "name": "Revive Hive",
       "url": "https://findsaunaplunge.com/venue/revive-hive-newtown-philadelphia-pa/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "254 N Sycamore Street",
         "city": "Newtown",
@@ -23817,17 +23841,17 @@
       "access": "unpublished",
       "sources": {
         "hours": {
-          "sourceUrl": "https://www.revivehive.com/home",
-          "capturedOn": "2026-08-16",
-          "quote": "Mon-Thur: 9am to 8pm"
+          "sourceUrl": "https://www.revivehive.com/",
+          "capturedOn": "2026-09-24",
+          "quote": "Monday - Thursday 6:45 AM - 8:00 PM Friday 9:00 AM - 5:00 PM Saturday 9:00 AM - 4:00 PM Sunday 9:00 AM - 5:00 PM"
         }
       },
-      "hours": "Monday-Thursday 9am-8pm, Friday 9am-5pm, Saturday 9am-4pm, Sunday 10am-3pm",
-      "website": "https://www.revivehive.com/home",
-      "bookingUrl": "https://www.revivehive.com/home",
+      "hours": "Monday-Thursday 6:45am-8pm, Friday 9am-5pm, Saturday 9am-4pm, Sunday 9am-5pm",
+      "website": "https://www.revivehive.com/",
+      "bookingUrl": "https://www.revivehive.com/",
       "phone": "+1-215-902-9797",
       "featured": false,
-      "summary": "Revive Hive is a wellness lounge in Newtown, PA offering cold plunge, cryotherapy, infrared sauna, traditional sauna and red light therapy alongside massage and other recovery services. The studio is open Monday-Thursday 9am-8pm, Friday 9am-5pm, Saturday 9am-4pm, and Sunday 10am-3pm."
+      "summary": "Revive Hive is a wellness lounge in Newtown, PA offering cold plunge, cryotherapy, infrared sauna, traditional sauna and red light therapy alongside massage and other recovery services. The studio is open Monday-Thursday 6:45am-8pm, Friday 9am-5pm, Saturday 9am-4pm, and Sunday 9am-5pm."
     },
     {
       "id": "recover-cold-plunge-doylestown-philadelphia-pa",
@@ -25184,18 +25208,11 @@
         }
       ],
       "access": "unpublished",
-      "sources": {
-        "hours": {
-          "sourceUrl": "https://resetmindbody.com/locations/arcadia-phoenix-az/",
-          "capturedOn": "2026-08-15",
-          "quote": "7 AM - 1 PM, 3 PM - 8 PM"
-        }
-      },
-      "hours": "Mon-Fri 7AM-1PM & 3PM-8PM, Sat-Sun 9AM-4PM",
-      "website": "https://resetmindbody.com/locations/arcadia-phoenix-az/",
+      "sources": {},
+      "website": "https://resetmindbody.com/",
       "phone": "+1-602-641-3105",
       "featured": false,
-      "summary": "RESET Mind & Body's Arcadia studio in Phoenix pairs LED red light therapy (1,800+ red and infrared LEDs per the brand's standard description) with compression, infrared sauna and cold water therapy. It publishes weekday hours split into a morning and afternoon block. No pricing is published on the location's own page; visitors are directed to book through the app."
+      "summary": "RESET Mind & Body's Arcadia studio in Phoenix pairs LED red light therapy (1,800+ red and infrared LEDs per the brand's standard description) with compression, infrared sauna and cold water therapy. The brand's website no longer lists this location, so its hours and pricing cannot be checked there; bookings run through the RESET app."
     },
     {
       "id": "reset-mind-body-uptown-phoenix-phoenix-az",
@@ -25764,7 +25781,7 @@
       "name": "Augment Wellness — Gilbert",
       "url": "https://findsaunaplunge.com/venue/augment-wellness-gilbert-phoenix-az/",
       "status": "community",
-      "lastVerified": "2026-08-15",
+      "lastVerified": "2026-09-14",
       "brand": "augment-wellness",
       "address": {
         "street": "35 E Warner Rd, Ste 103",
@@ -25810,15 +25827,15 @@
       "sources": {
         "hours": {
           "sourceUrl": "https://www.augmentwellness.com/gilbert/",
-          "capturedOn": "2026-08-15",
-          "quote": "M-F 6am - 8pm"
+          "capturedOn": "2026-09-14",
+          "quote": "Mon-Tue 6am - 7pm Wed 10am - 2pm Thu-Fri 6am - 7pm Sat 8am - 4pm Sun 8am - 2pm"
         }
       },
-      "hours": "Mon-Fri 6AM-8PM, Sat-Sun 8AM-5PM",
+      "hours": "Mon-Tue 6AM-7PM, Wed 10AM-2PM, Thu-Fri 6AM-7PM, Sat 8AM-4PM, Sun 8AM-2PM",
       "website": "https://www.augmentwellness.com/gilbert/",
       "phone": "+1-480-306-4126",
       "featured": false,
-      "summary": "Augment Wellness's Gilbert studio offers the same recovery lineup as its Scottsdale-area sibling: cold and hot contrast hydrotherapy, compression, infrared sauna, halotherapy, red light therapy, a hyperbaric chamber, and PEMF via its BioCharger. It is open 6am-8pm on weekdays and 8am-5pm on weekends. No pricing is published on this page."
+      "summary": "Augment Wellness's Gilbert studio offers the same recovery lineup as its Scottsdale-area sibling: cold and hot contrast hydrotherapy, compression, infrared sauna, halotherapy, red light therapy, a hyperbaric chamber, and PEMF via its BioCharger. It is open 6am-7pm Monday, Tuesday, Thursday and Friday, 10am-2pm on Wednesday, 8am-4pm Saturday and 8am-2pm Sunday. No pricing is published on this page."
     },
     {
       "id": "active-bodyworx-scottsdale-phoenix-az",
@@ -27069,7 +27086,7 @@
       "name": "Uptown Sauna House",
       "url": "https://findsaunaplunge.com/venue/uptown-sauna-house-vancouver-wa/",
       "status": "community",
-      "lastVerified": "2026-08-24",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "414 W 23rd St",
         "city": "Vancouver",
@@ -27106,8 +27123,9 @@
         ]
       },
       "pricing": {
-        "dropIn": 35,
-        "note": "Public sessions are 90 minutes at $35 per person, with up to four people booked per slot; the whole space can be booked as a private session for $125."
+        "dropIn": 28,
+        "note": "Public sessions are $28 per person for 60 minutes or $35 for 90 minutes, plus tax, with up to four people booked per slot; the whole space can be booked as a private 90-minute session for $140. A 6-for-5 pass of 90-minute public sessions is $175.",
+        "classPack": 175
       },
       "sources": {
         "access": {
@@ -27116,20 +27134,25 @@
           "quote": "Our sessions can accommodate up to four people due to the size of our sauna and the number of cold plunges."
         },
         "dropIn": {
-          "sourceUrl": "https://www.uptownsaunahouse.com/book-online",
-          "capturedOn": "2026-08-24",
-          "quote": "1 hr 30 min 35 US dollars $35"
+          "sourceUrl": "https://www.uptownsaunahouse.com/pricing-plans/list",
+          "capturedOn": "2026-09-14",
+          "quote": "Public 60 minute Single Sessions $28+ tax per person"
         },
         "sessionMinutes": {
-          "sourceUrl": "https://www.uptownsaunahouse.com/book-online",
-          "capturedOn": "2026-08-24",
-          "quote": "Public 90 minute Sauna and Cold Plunge"
+          "sourceUrl": "https://www.uptownsaunahouse.com/pricing-plans/list",
+          "capturedOn": "2026-09-14",
+          "quote": "Public 60 minute Single Sessions $28+ tax per person"
+        },
+        "classPack": {
+          "sourceUrl": "https://www.uptownsaunahouse.com/pricing-plans/list",
+          "capturedOn": "2026-09-14",
+          "quote": "6 FOR 5 PASS $ 175"
         }
       },
       "website": "https://www.uptownsaunahouse.com",
       "bookingUrl": "https://www.uptownsaunahouse.com/book-online",
       "featured": false,
-      "summary": "Uptown Sauna House is an outdoor backyard sauna and cold plunge property in Vancouver, Washington, run appointment-only through an online booking calendar. Public 90-minute sessions are $35 per person and accommodate up to four people sharing the custom cedar sauna and cold plunges; the whole space can also be booked as a private session. The two-tier sauna maintains a temperature between 180 and 205 degrees Fahrenheit, and guests are asked to bring a bathing suit and two towels."
+      "summary": "Uptown Sauna House is an outdoor backyard sauna and cold plunge property in Vancouver, Washington, run appointment-only through an online booking calendar. Public sessions are $28 per person for 60 minutes or $35 for 90 minutes and accommodate up to four people sharing the custom cedar sauna and cold plunges; the whole space can also be booked as a private session. The two-tier sauna maintains a temperature between 180 and 205 degrees Fahrenheit, and guests are asked to bring a bathing suit and two towels."
     },
     {
       "id": "loyly-southeast-portland-or",
@@ -27879,76 +27902,6 @@
       "summary": "bioworX Cibolo, northeast of San Antonio, offers the brand's standard recovery line: cryotherapy, cold plunge, infrared sauna, red light therapy and compression, alongside IV drips and regenerative treatments. It's open Monday to Friday 10am to 7pm and Saturday 9am to 5pm, closed Sunday. No prices or access layout are published on its own page."
     },
     {
-      "id": "bioworx-leon-springs-san-antonio-tx",
-      "name": "bioworX Leon Springs",
-      "url": "https://findsaunaplunge.com/venue/bioworx-leon-springs-san-antonio-tx/",
-      "status": "community",
-      "lastVerified": "2026-08-15",
-      "address": {
-        "street": "24165 W Interstate 10 Frontage Rd, Suite 205",
-        "city": "San Antonio",
-        "state": "TX",
-        "zip": "78257",
-        "country": "US"
-      },
-      "city": {
-        "slug": "san-antonio-tx",
-        "name": "San Antonio",
-        "state": "Texas",
-        "stateSlug": "tx",
-        "url": "https://findsaunaplunge.com/tx/san-antonio-tx/"
-      },
-      "geo": {
-        "lat": 29.665084,
-        "lng": -98.629277
-      },
-      "modalities": [
-        {
-          "value": "cold_plunge",
-          "label": "Cold Plunge"
-        },
-        {
-          "value": "infrared_sauna",
-          "label": "Infrared Sauna"
-        },
-        {
-          "value": "cryotherapy",
-          "label": "Cryotherapy"
-        },
-        {
-          "value": "red_light",
-          "label": "Red Light Therapy"
-        },
-        {
-          "value": "compression",
-          "label": "Compression Therapy"
-        }
-      ],
-      "access": "private_suite",
-      "sources": {
-        "access": {
-          "sourceUrl": "https://leonsprings.mybioworx.com/",
-          "capturedOn": "2026-08-15",
-          "quote": "Infrared sauna, cold plunge, and red light therapy are provided in a private room and require booking."
-        },
-        "reservation": {
-          "sourceUrl": "https://leonsprings.mybioworx.com/",
-          "capturedOn": "2026-08-15",
-          "quote": "Infrared sauna, cold plunge, and red light therapy are provided in a private room and require booking."
-        },
-        "hours": {
-          "sourceUrl": "https://leonsprings.mybioworx.com/",
-          "capturedOn": "2026-08-15",
-          "quote": "Sunday: 11AM - 3PM"
-        }
-      },
-      "hours": "Mon-Fri 9:00am-6:00pm, Sat Closed, Sun 11:00am-3:00pm",
-      "website": "https://leonsprings.mybioworx.com/",
-      "phone": "+1-210-953-7336",
-      "featured": false,
-      "summary": "bioworX Leon Springs serves northwest San Antonio near The Rim and The Dominion with the brand's standard recovery line: cryotherapy, cold plunge, infrared sauna, red light therapy and compression, plus an extensive IV and regenerative menu. Its own page states that infrared sauna, cold plunge and red light therapy are provided in a private room and require booking, and that red light sessions typically run 10 to 30 minutes. Hours are Monday to Friday 9am to 6pm and Sunday 11am to 3pm; closed Saturday."
-    },
-    {
       "id": "restore-hyper-wellness-sonterra-san-antonio-tx",
       "name": "Restore Hyper Wellness — Sonterra",
       "url": "https://findsaunaplunge.com/venue/restore-hyper-wellness-sonterra-san-antonio-tx/",
@@ -28020,7 +27973,7 @@
       "name": "Restore Hyper Wellness — Quarry",
       "url": "https://findsaunaplunge.com/venue/restore-hyper-wellness-quarry-san-antonio-tx/",
       "status": "community",
-      "lastVerified": "2026-08-15",
+      "lastVerified": "2026-09-14",
       "brand": "restore-hyper-wellness",
       "address": {
         "street": "310 E Basse Rd, Suite 109",
@@ -28071,16 +28024,16 @@
         },
         "hours": {
           "sourceUrl": "https://www.restore.com/locations/tx-san-antonio-quarry-tx021",
-          "capturedOn": "2026-08-15",
-          "quote": "Monday-Friday: 10AM-7PM"
+          "capturedOn": "2026-09-14",
+          "quote": "Monday-Friday: 10AM-6PM Saturday: 10AM-5PM Sunday: 11AM-5PM"
         }
       },
-      "hours": "Mon-Fri 10:00am-7:00pm, Sat 10:00am-5:00pm, Sun 11:00am-5:00pm",
+      "hours": "Mon-Fri 10:00am-6:00pm, Sat 10:00am-5:00pm, Sun 11:00am-5:00pm",
       "website": "https://www.restore.com/locations/tx-san-antonio-quarry-tx021",
       "bookingUrl": "https://booking.restore.com/book",
       "phone": "+1-210-600-4223",
       "featured": false,
-      "summary": "Restore Hyper Wellness Quarry, on Basse Road in The Quarry Village near Trader Joe's, offers the same Core Therapies as Restore's other San Antonio studio: cryotherapy, red light therapy, infrared sauna and compression, plus IV drips and skin-health services. Red light therapy is listed at $45 retail ($30 member) per session, running 10 to 15 minutes, with the cheapest monthly membership (Level Up) at $190. Hours are Monday to Friday 10am to 7pm, Saturday 10am to 5pm and Sunday 11am to 5pm; access layout is not published."
+      "summary": "Restore Hyper Wellness Quarry, on Basse Road in The Quarry Village near Trader Joe's, offers the same Core Therapies as Restore's other San Antonio studio: cryotherapy, red light therapy, infrared sauna and compression, plus IV drips and skin-health services. Red light therapy is listed at $45 retail ($30 member) per session, running 10 to 15 minutes, with the cheapest monthly membership (Level Up) at $190. Hours are Monday to Friday 10am to 6pm, Saturday 10am to 5pm and Sunday 11am to 5pm; access layout is not published."
     },
     {
       "id": "icryo-helotes-san-antonio-tx",
@@ -29055,7 +29008,7 @@
       "name": "Stone Impact",
       "url": "https://findsaunaplunge.com/venue/stone-impact-oceanside-san-diego-ca/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "845 S Coast Hwy",
         "city": "Oceanside",
@@ -29082,34 +29035,24 @@
         {
           "value": "traditional_sauna",
           "label": "Traditional Sauna"
-        },
-        {
-          "value": "compression",
-          "label": "Compression Therapy"
         }
       ],
       "access": "unpublished",
       "pricing": {
-        "membershipMo": 75
+        "dropIn": 25
       },
       "sources": {
-        "membershipMo": {
-          "sourceUrl": "https://www.stoneimpact.co/pages/recovery",
-          "capturedOn": "2026-08-16",
-          "quote": "Non-Members – $75/month"
-        },
-        "hours": {
-          "sourceUrl": "https://www.stoneimpact.co/pages/recovery",
-          "capturedOn": "2026-08-16",
-          "quote": "Mon-Fri: 5am - 8pm"
+        "dropIn": {
+          "sourceUrl": "https://www.stoneimpact.co/programs/drop-in",
+          "capturedOn": "2026-09-24",
+          "quote": "Leave inspired to return! $25/Session"
         }
       },
-      "hours": "Mon-Fri 5am-8pm, Sat 8am-2pm",
       "website": "https://www.stoneimpact.co/",
-      "bookingUrl": "https://www.stoneimpact.co/pages/recovery",
+      "bookingUrl": "https://www.stoneimpact.co/programs/drop-in",
       "phone": "+1-949-627-7753",
       "featured": false,
-      "summary": "Stone Impact is a strength and conditioning gym in Oceanside with a dedicated Recovery Room offering sauna, cold plunge, and compression therapy for one flat rate. Unlimited monthly Recovery Room access runs $75 per month for non-members. The gym is open Monday through Friday from 5am to 8pm and Saturday from 8am to 2pm."
+      "summary": "Stone Impact is a strength and conditioning gym in Oceanside whose recovery amenities include a sauna and cold plunge, open to members and to drop-in visitors. A drop-in session is $25; membership pricing is by request."
     },
     {
       "id": "bella-longevity-spa-oceanside-san-diego-ca",
@@ -29330,7 +29273,7 @@
       "name": "TruSelf Sporting Club",
       "url": "https://findsaunaplunge.com/venue/truself-sporting-club-san-diego-ca/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "5125 Waring Road",
         "city": "San Diego",
@@ -29366,28 +29309,45 @@
       "access": "private_suite",
       "pricing": {
         "dropIn": 49,
-        "membershipMo": 99
+        "membershipMo": 99,
+        "classPack": 159,
+        "note": "A 3-session pack is $159, valid twelve months."
       },
       "sources": {
         "dropIn": {
           "sourceUrl": "https://truselfsportingclub.com/cold-plunge-san-diego/",
-          "capturedOn": "2026-08-16",
-          "quote": "Total Investment: $49"
+          "capturedOn": "2026-09-14",
+          "quote": "Single Session $49"
         },
         "membershipMo": {
           "sourceUrl": "https://truselfsportingclub.com/cold-plunge-san-diego/",
-          "capturedOn": "2026-08-16",
-          "quote": "$99/Monthly"
+          "capturedOn": "2026-09-14",
+          "quote": "Unlimited Ultra $99 /mo"
         },
         "access": {
           "sourceUrl": "https://truselfsportingclub.com/cold-plunge-san-diego/",
-          "capturedOn": "2026-08-16",
-          "quote": "Exclusive Privacy (Just You)"
+          "capturedOn": "2026-09-14",
+          "quote": "Every cold plunge and contrast session is an exclusive private 30-minute time block - just you"
         },
         "hours": {
           "sourceUrl": "https://truselfsportingclub.com/cold-plunge-san-diego/",
           "capturedOn": "2026-08-16",
           "quote": "5:00am – 9:00pm"
+        },
+        "classPack": {
+          "sourceUrl": "https://truselfsportingclub.com/cold-plunge-san-diego/",
+          "capturedOn": "2026-09-14",
+          "quote": "3-Session Pack $159"
+        },
+        "sessionMinutes": {
+          "sourceUrl": "https://truselfsportingclub.com/cold-plunge-san-diego/",
+          "capturedOn": "2026-09-14",
+          "quote": "Private 30-minute time block - just you"
+        },
+        "reservation": {
+          "sourceUrl": "https://truselfsportingclub.com/cold-plunge-san-diego/",
+          "capturedOn": "2026-09-14",
+          "quote": "Walk-ins welcome, or book ahead in the TruSelf app"
         }
       },
       "hours": "Mon-Fri 5:00am-9:00pm, Sat-Sun 8:00am-4:00pm",
@@ -29910,7 +29870,7 @@
       "name": "Kabuki Springs & Spa",
       "url": "https://findsaunaplunge.com/venue/kabuki-springs-spa-san-francisco-ca/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-27",
       "address": {
         "street": "1750 Geary Blvd",
         "city": "San Francisco",
@@ -29992,8 +29952,19 @@
           "sourceUrl": "https://kabukisprings.com/springs/",
           "capturedOn": "2026-08-16",
           "quote": "heated to 150 degrees"
+        },
+        "hours": {
+          "sourceUrl": "https://kabukisprings.com/springs-pricing-info/",
+          "capturedOn": "2026-09-27",
+          "quote": "Monday: 2:00 PM – 8:00 PM Tuesday-Sunday: 10:00 AM – 9:30 PM"
+        },
+        "coedNote": {
+          "sourceUrl": "https://kabukisprings.com/springs-pricing-info/",
+          "capturedOn": "2026-09-27",
+          "quote": "Women: Sundays, Wednesdays and Fridays (Bathing Suit Optional) — Women’s days are for women and girls. All cisgender and transgender women are welcome. Men: Thursdays and Saturdays (Bathing Suit Optional) — Men’s days are for men and boys. All cisgender and transgender men are welcome. All Gender days: Mondays and Tuesdays — Bathing suits are required."
         }
       },
+      "hours": "Monday 2:00pm–8:00pm; Tuesday–Sunday 10:00am–9:30pm",
       "website": "https://kabukisprings.com/",
       "bookingUrl": "https://kabukisprings.com/springs-pricing-info/",
       "phone": "+1-415-922-6000",
@@ -30392,23 +30363,7 @@
         }
       ],
       "access": "private_suite",
-      "sources": {
-        "access": {
-          "sourceUrl": "https://www.piedmontsprings.com/about",
-          "capturedOn": "2026-08-16",
-          "quote": "We offer private outdoor hot tubs, a private Finnish sauna, a private steam room"
-        },
-        "hours": {
-          "sourceUrl": "https://www.piedmontsprings.com",
-          "capturedOn": "2026-08-16",
-          "quote": "Open 7 days a week // 11AM - 10PM"
-        },
-        "cancellationHours": {
-          "sourceUrl": "https://www.piedmontsprings.com/policies",
-          "capturedOn": "2026-08-16",
-          "quote": "Cancellations of less than 24 hours will be charged 50% of the total service cost."
-        }
-      },
+      "sources": {},
       "hours": "Open 7 days a week, 11am-10pm",
       "website": "https://www.piedmontsprings.com",
       "bookingUrl": "https://www.piedmontsprings.com/reservations-policies",
@@ -30746,7 +30701,7 @@
       "name": "Dogpatch Paddle & Kayak - Sauna + Cold Plunge",
       "url": "https://findsaunaplunge.com/venue/dogpatch-paddle-sauna-san-francisco-ca/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-02",
       "address": {
         "street": "701 Illinois Street #A",
         "city": "San Francisco",
@@ -30780,6 +30735,10 @@
         "saunaF": [
           180,
           200
+        ],
+        "plungeF": [
+          36,
+          55
         ]
       },
       "pricing": {
@@ -30788,30 +30747,35 @@
       "sources": {
         "dropIn": {
           "sourceUrl": "https://www.dogpatchpaddle.com/sauna",
-          "capturedOn": "2026-08-16",
-          "quote": "$25/session • 1 Hour"
+          "capturedOn": "2026-09-02",
+          "quote": "Sauna only Public $25 One hour"
         },
         "sessionMinutes": {
           "sourceUrl": "https://www.dogpatchpaddle.com/sauna",
-          "capturedOn": "2026-08-16",
-          "quote": "$25/session • 1 Hour"
+          "capturedOn": "2026-09-02",
+          "quote": "Sauna only Public $25 One hour"
         },
         "access": {
           "sourceUrl": "https://www.dogpatchpaddle.com/sauna",
-          "capturedOn": "2026-08-16",
-          "quote": "Book a seat and share the sauna vibe (max 4)."
+          "capturedOn": "2026-09-02",
+          "quote": "Share the sauna with up to three others."
         },
         "saunaF": {
           "sourceUrl": "https://www.dogpatchpaddle.com/sauna",
-          "capturedOn": "2026-08-16",
-          "quote": "(180º-200º)"
+          "capturedOn": "2026-09-02",
+          "quote": "Sauna ~190°F 180–200° Plunge ~49°F 36–55° Session 1 hour Starting at $25"
+        },
+        "plungeF": {
+          "sourceUrl": "https://www.dogpatchpaddle.com/sauna",
+          "capturedOn": "2026-09-02",
+          "quote": "Sauna ~190°F 180–200° Plunge ~49°F 36–55° Session 1 hour Starting at $25"
         }
       },
       "website": "https://www.dogpatchpaddle.com/sauna",
       "bookingUrl": "https://book.peek.com/s/2530f333-35eb-43fc-b661-6c7d3c95dfea/7vkbE",
       "phone": "+1-415-484-9322",
       "featured": false,
-      "summary": "Dogpatch Paddle & Kayak, a waterfront paddlesports rental company at Crane Cove Park in San Francisco, built a dedicated sauna and cold plunge deck alongside its kayak and SUP operation. Guests can book a shared public sauna session for $25 per hour, or pay a higher flat rate to reserve the sauna privately, with an in-house cold plunge available as an add-on. The sauna runs hot at 180-200 degrees F, and monthly sauna memberships are also sold."
+      "summary": "Dogpatch Paddle & Kayak, a waterfront paddlesports rental company at Crane Cove Park in San Francisco, built a dedicated sauna and cold plunge deck alongside its kayak and SUP operation. Guests can book a shared public sauna session for $25 per hour, or pay a higher flat rate to reserve the sauna privately, with an in-house cold plunge available as an add-on. The sauna runs hot at 180-200 degrees F and the plunge is published at 36-55 degrees F, and monthly sauna memberships are also sold."
     },
     {
       "id": "good-hot-san-francisco-ca",
@@ -30995,7 +30959,7 @@
       "name": "K2 Cryotherapy",
       "url": "https://findsaunaplunge.com/venue/k2-cryotherapy-san-francisco-ca/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-24",
       "address": {
         "street": "44374 S Grimmer Blvd",
         "city": "Fremont",
@@ -31018,21 +30982,33 @@
         {
           "value": "cryotherapy",
           "label": "Cryotherapy"
+        },
+        {
+          "value": "infrared_sauna",
+          "label": "Infrared Sauna"
         }
       ],
       "access": "unpublished",
+      "pricing": {
+        "dropIn": 59
+      },
       "sources": {
         "hours": {
-          "sourceUrl": "https://www.k2cryotherapy.com",
-          "capturedOn": "2026-08-16",
-          "quote": "10:00AM - 06:00PM"
+          "sourceUrl": "https://www.k2cryotherapy.com/contact-us/",
+          "capturedOn": "2026-09-24",
+          "quote": "Monday 8:00 AM-6:00 PM Tuesday 8:00 AM-6:00 PM Wednesday 8:00 AM-6:00 PM Thursday 8:00 AM-6:00 PM Friday 8:00 AM-6:00 PM Saturday 8:00 AM-12:00 PM Sunday Closed"
+        },
+        "dropIn": {
+          "sourceUrl": "https://www.k2cryotherapy.com/contact-us/",
+          "capturedOn": "2026-09-24",
+          "quote": "Book infrared sauna $59 single · $50 each for 3+"
         }
       },
-      "hours": "Mon-Fri 10:00am-6:00pm, Sat 10:00am-2:00pm, Sun closed",
+      "hours": "Mon-Fri 8:00am-6:00pm, Sat 8:00am-12:00pm, Sun closed",
       "website": "https://www.k2cryotherapy.com",
       "phone": "+1-661-428-3820",
       "featured": false,
-      "summary": "K2 Cryotherapy is a Fremont recovery clinic built around a nitrogen-cooled whole-body cryotherapy chamber, paired with personal training and small-group fitness classes. Sessions run 2-3 minutes in a single-person vertical walk-in chamber that surrounds the body while the head stays outside. The studio is open Monday through Saturday, closed Sundays."
+      "summary": "K2 Cryotherapy is a Fremont recovery clinic built around a nitrogen-cooled whole-body cryotherapy chamber, paired with personal training and small-group fitness classes. Sessions run 2-3 minutes in a single-person vertical walk-in chamber that surrounds the body while the head stays outside. It also sells infrared sauna sessions at $59. The studio is open Monday through Saturday, closed Sundays."
     },
     {
       "id": "pearl-spa-sauna-san-francisco-ca",
@@ -31114,7 +31090,7 @@
       "name": "SoliVana Wellness Lab",
       "url": "https://findsaunaplunge.com/venue/solivana-wellness-lab-san-francisco-ca/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-02",
       "address": {
         "street": "1922 El Camino Real",
         "city": "Redwood City",
@@ -31159,8 +31135,8 @@
       "sources": {
         "hours": {
           "sourceUrl": "https://solivanalab.com/",
-          "capturedOn": "2026-08-16",
-          "quote": "Hours: Monday–Sunday, 11:00am–8:00pm."
+          "capturedOn": "2026-09-02",
+          "quote": "HOURS Monday – Sunday 11:00 AM – 8:00 PM"
         }
       },
       "hours": "Monday-Sunday, 11:00am-8:00pm",
@@ -32614,7 +32590,7 @@
       "name": "Plunge + Restore",
       "url": "https://findsaunaplunge.com/venue/plunge-and-restore-tacoma-seattle-wa/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-02",
       "address": {
         "street": "1101 Fawcett Avenue, Suite 111",
         "city": "Tacoma",
@@ -32647,11 +32623,11 @@
       "sources": {
         "hours": {
           "sourceUrl": "https://www.plungeandrestore.com/",
-          "capturedOn": "2026-08-16",
-          "quote": "Monday: 7-1 and 4:30-7:30 Tuesday: 7-4 Wednesday: 12:30-8:30 Thursday: closed"
+          "capturedOn": "2026-09-02",
+          "quote": "Monday: 7-11:30 and 4:30-7:30 Tuesday: 7-12:30 and 6:30-7:30 Wednesday: 12:30-8:30 Thursday: closed"
         }
       },
-      "hours": "Mon 7-1 & 4:30-7:30, Tue 7-4, Wed 12:30-8:30, Thu closed, Fri 7-1 & 4:30-7:30, Sat 8:30-3:30, Sun 11-7:30",
+      "hours": "Mon 7-11:30 & 4:30-7:30, Tue 7-12:30 & 6:30-7:30, Wed 12:30-8:30, Thu closed, Fri 7-12:30 & 4:30-7:30, Sat 8:30-3:30, Sun 11-7:30",
       "website": "https://www.plungeandrestore.com/",
       "bookingUrl": "https://www.plungeandrestore.com/schedule",
       "featured": false,
@@ -33062,8 +33038,8 @@
         "url": "https://findsaunaplunge.com/fl/tampa-fl/"
       },
       "geo": {
-        "lat": 27.898364,
-        "lng": -82.785305
+        "lat": 27.770193,
+        "lng": -82.634084
       },
       "modalities": [
         {
@@ -33554,7 +33530,7 @@
       "name": "The Sauna Guys",
       "url": "https://findsaunaplunge.com/venue/the-sauna-guys-tampa-fl/",
       "status": "community",
-      "lastVerified": "2026-08-16",
+      "lastVerified": "2026-09-14",
       "address": {
         "street": "1703 N 24th Street",
         "city": "Tampa",
@@ -33577,30 +33553,78 @@
         {
           "value": "cold_plunge",
           "label": "Cold Plunge"
+        },
+        {
+          "value": "traditional_sauna",
+          "label": "Traditional Sauna"
         }
       ],
       "access": "unpublished",
+      "temps": {
+        "plungeF": [
+          45,
+          60
+        ],
+        "saunaF": [
+          180,
+          200
+        ]
+      },
       "pricing": {
-        "membershipMo": 99
+        "dropIn": 40,
+        "membershipMo": 99,
+        "intro": 20,
+        "classPack": 150,
+        "note": "Single 60-minute session $40; first-time guests can book a single session for $20 or two weeks of unlimited sessions for $89. Packs: 4 sessions for $150, 8 for $280. The cheapest membership is $99 a month for four sessions. The studio runs several cold tubs at different setpoints; the recorded plunge range spans them."
       },
       "sources": {
         "hours": {
           "sourceUrl": "https://www.sauna-guys.com",
-          "capturedOn": "2026-08-16",
-          "quote": "Mon–Fri: 5 PM–8 PM"
+          "capturedOn": "2026-09-14",
+          "quote": "Mon to Fri: 4:30 PM to 8:30 PM Sat and Sun: 9:00 AM to 1:00 PM"
         },
         "membershipMo": {
           "sourceUrl": "https://www.sauna-guys.com",
           "capturedOn": "2026-08-16",
           "quote": "$ 99 / mo"
+        },
+        "plungeF": {
+          "sourceUrl": "https://www.sauna-guys.com/",
+          "capturedOn": "2026-09-14",
+          "quote": "For the cold plunge we run several tubs at different temperatures, from 45 to 60 degrees"
+        },
+        "saunaF": {
+          "sourceUrl": "https://www.sauna-guys.com/",
+          "capturedOn": "2026-09-14",
+          "quote": "We keep the sauna between 180 and 200 degrees Fahrenheit"
+        },
+        "dropIn": {
+          "sourceUrl": "https://www.sauna-guys.com/pricing",
+          "capturedOn": "2026-09-14",
+          "quote": "Single session $ 40"
+        },
+        "classPack": {
+          "sourceUrl": "https://www.sauna-guys.com/pricing",
+          "capturedOn": "2026-09-14",
+          "quote": "4 session pack $ 150"
+        },
+        "intro": {
+          "sourceUrl": "https://www.sauna-guys.com/",
+          "capturedOn": "2026-09-14",
+          "quote": "First-time guests can book a single 60 minute session for $20, or two weeks of unlimited sessions for $89"
+        },
+        "sessionMinutes": {
+          "sourceUrl": "https://www.sauna-guys.com/",
+          "capturedOn": "2026-09-14",
+          "quote": "Every session is 60 minutes"
         }
       },
-      "hours": "Mon-Fri 5pm-8pm",
+      "hours": "Mon-Fri 4:30pm-8:30pm; Sat-Sun 9:00am-1:00pm",
       "website": "https://www.sauna-guys.com",
       "bookingUrl": "https://app.glofox.com/portal/#/branch/654e7d37c8a12ada310de13a/memberships",
       "phone": "+1-352-342-8733",
       "featured": false,
-      "summary": "The Sauna Guys is a sauna and cold plunge studio in Tampa's Ybor City, open Monday through Friday from 5pm to 8pm. Its lowest membership tier is a 4-class Membership at $99/month, with higher-volume and unlimited tiers, plus drop-in and credit-pack options, also available."
+      "summary": "The Sauna Guys is a sauna and cold plunge studio in Tampa's Ybor City, open weekday evenings from 4:30pm to 8:30pm and weekend mornings from 9am to 1pm. It publishes its setpoints: the sauna is kept between 180°F and 200°F and several cold tubs run from 45°F to 60°F. A single 60-minute session is $40 and the lowest membership tier is $99 a month for four sessions, with higher-volume and unlimited tiers and session packs also available."
     },
     {
       "id": "the-studio-sauna-st-petersburg-fl",
@@ -35254,23 +35278,10 @@
       "pricing": {
         "dropIn": 25
       },
-      "sources": {
-        "dropIn": {
-          "sourceUrl": "https://www.dajewellnessandspa.com/treatments",
-          "capturedOn": "2026-08-16",
-          "quote": "30 min 25 US dollars"
-        },
-        "sessionMinutes": {
-          "sourceUrl": "https://www.dajewellnessandspa.com/treatments",
-          "capturedOn": "2026-08-16",
-          "quote": "30 min 25 US dollars"
-        }
-      },
-      "website": "https://www.dajewellnessandspa.com/",
-      "bookingUrl": "https://www.dajewellnessandspa.com/treatments",
+      "sources": {},
       "phone": "+1-202-780-8112",
       "featured": false,
-      "summary": "Daje Wellness and Spa is a Moroccan hammam-style day spa at 938 Bonifant Street in Silver Spring, Maryland, offering a traditional dry sauna room and a steam room alongside Moroccan bath treatments and facials. A standalone 30-minute sauna or steam room session runs $25."
+      "summary": "Daje Wellness and Spa is a Moroccan hammam-style day spa at 938 Bonifant Street in Silver Spring, Maryland, offering a traditional dry sauna room and a steam room alongside Moroccan bath treatments and facials. A standalone 30-minute sauna or steam room session runs $25. Its website has been offline since September 2026 and could not be re-checked."
     },
     {
       "id": "life-time-centreville-washington-dc",

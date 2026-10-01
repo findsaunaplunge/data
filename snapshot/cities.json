@@ -4,7 +4,7 @@
     "name": "Minneapolis",
     "state": "Minnesota",
     "url": "https://findsaunaplunge.com/mn/minneapolis-mn/",
-    "venues": 36
+    "venues": 37
   },
   {
     "slug": "new-york-ny",
@@ -12,13 +12,6 @@
     "state": "New York",
     "url": "https://findsaunaplunge.com/ny/new-york-ny/",
     "venues": 34
-  },
-  {
-    "slug": "denver-co",
-    "name": "Denver",
-    "state": "Colorado",
-    "url": "https://findsaunaplunge.com/co/denver-co/",
-    "venues": 30
   },
   {
     "slug": "atlanta-ga",
@@ -32,6 +25,13 @@
     "name": "Chicago",
     "state": "Illinois",
     "url": "https://findsaunaplunge.com/il/chicago-il/",
+    "venues": 29
+  },
+  {
+    "slug": "denver-co",
+    "name": "Denver",
+    "state": "Colorado",
+    "url": "https://findsaunaplunge.com/co/denver-co/",
     "venues": 29
   },
   {
@@ -74,7 +74,7 @@
     "name": "Austin",
     "state": "Texas",
     "url": "https://findsaunaplunge.com/tx/austin-tx/",
-    "venues": 25
+    "venues": 24
   },
   {
     "slug": "philadelphia-pa",
@@ -105,13 +105,6 @@
     "venues": 20
   },
   {
-    "slug": "san-antonio-tx",
-    "name": "San Antonio",
-    "state": "Texas",
-    "url": "https://findsaunaplunge.com/tx/san-antonio-tx/",
-    "venues": 19
-  },
-  {
     "slug": "san-diego-ca",
     "name": "San Diego",
     "state": "California",
@@ -130,6 +123,13 @@
     "name": "Dallas",
     "state": "Texas",
     "url": "https://findsaunaplunge.com/tx/dallas-tx/",
+    "venues": 18
+  },
+  {
+    "slug": "san-antonio-tx",
+    "name": "San Antonio",
+    "state": "Texas",
+    "url": "https://findsaunaplunge.com/tx/san-antonio-tx/",
     "venues": 18
   },
   {
