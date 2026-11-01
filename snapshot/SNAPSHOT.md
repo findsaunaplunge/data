@@ -1,6 +1,6 @@
 # Snapshot
 
-- Taken: 2026-10-01
+- Taken: 2026-11-01
 - Feed generated: 2026-09-27T22:58:55.463Z
 - Venues: 546
 - Cities: 23
